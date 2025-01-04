@@ -1,0 +1,1402 @@
+2024-12-04 00:01:40,371 - INFO - 158 videos found in /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real
+2024-12-04 00:01:43,954 - WARNING - No faces in frame 4 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:44,174 - WARNING - No faces in frame 9 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:44,394 - WARNING - No faces in frame 13 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:44,651 - WARNING - No faces in frame 18 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:44,886 - WARNING - No faces in frame 23 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:45,151 - WARNING - No faces in frame 27 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:45,440 - WARNING - No faces in frame 32 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:45,709 - WARNING - No faces in frame 37 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:45,969 - WARNING - No faces in frame 41 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:46,530 - WARNING - No faces in frame 51 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:47,023 - WARNING - No faces in frame 60 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:47,282 - WARNING - No faces in frame 65 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:47,552 - WARNING - No faces in frame 69 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:47,792 - WARNING - No faces in frame 74 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:48,015 - WARNING - No faces in frame 78 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:48,228 - WARNING - No faces in frame 83 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:48,443 - WARNING - No faces in frame 88 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:48,692 - WARNING - No faces in frame 92 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:48,949 - WARNING - No faces in frame 97 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:49,179 - WARNING - No faces in frame 102 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:49,396 - WARNING - No faces in frame 106 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:49,680 - WARNING - No faces in frame 111 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:49,938 - WARNING - No faces in frame 116 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:50,413 - WARNING - No faces in frame 120 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:50,413 - INFO - Current time: 2024-12-04 00:01:50
+2024-12-04 00:01:50,643 - WARNING - No faces in frame 125 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:50,903 - WARNING - No faces in frame 130 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:51,111 - WARNING - No faces in frame 134 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:51,322 - WARNING - No faces in frame 139 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:51,563 - WARNING - No faces in frame 144 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 00:01:51,762 - INFO - Current time: 2024-12-04 00:01:51
+2024-12-04 00:01:52,845 - INFO - Current time: 2024-12-04 00:01:52
+2024-12-04 00:01:53,162 - INFO - Current time: 2024-12-04 00:01:53
+2024-12-04 00:01:53,422 - INFO - Current time: 2024-12-04 00:01:53
+2024-12-04 00:01:53,789 - INFO - Current time: 2024-12-04 00:01:53
+2024-12-04 00:01:54,104 - INFO - Current time: 2024-12-04 00:01:54
+2024-12-04 00:01:54,448 - INFO - Current time: 2024-12-04 00:01:54
+2024-12-04 00:01:54,647 - INFO - Current time: 2024-12-04 00:01:54
+2024-12-04 00:01:55,270 - INFO - Current time: 2024-12-04 00:01:55
+2024-12-04 00:01:55,480 - INFO - Current time: 2024-12-04 00:01:55
+2024-12-04 00:01:55,816 - INFO - Current time: 2024-12-04 00:01:55
+2024-12-04 00:01:57,518 - WARNING - No faces in frame 66 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0006.mp4
+2024-12-04 00:01:57,661 - WARNING - No faces in frame 71 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0006.mp4
+2024-12-04 00:01:57,989 - WARNING - No faces in frame 168 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id11_0000.mp4
+2024-12-04 00:02:00,821 - WARNING - No faces in frame 372 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id11_0000.mp4
+2024-12-04 00:02:01,027 - INFO - Current time: 2024-12-04 00:02:01
+2024-12-04 00:02:01,316 - WARNING - No faces in frame 0 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id11_0004.mp4
+2024-12-04 00:02:01,697 - INFO - Current time: 2024-12-04 00:02:01
+2024-12-04 00:02:01,702 - WARNING - No faces in frame 11 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id11_0004.mp4
+2024-12-04 00:02:02,026 - INFO - Current time: 2024-12-04 00:02:02
+2024-12-04 00:02:02,854 - INFO - Current time: 2024-12-04 00:02:02
+2024-12-04 00:02:03,948 - WARNING - No faces in frame 350 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0003.mp4
+2024-12-04 00:02:04,269 - INFO - Current time: 2024-12-04 00:02:04
+2024-12-04 00:02:04,798 - INFO - Current time: 2024-12-04 00:02:04
+2024-12-04 00:02:05,724 - INFO - Current time: 2024-12-04 00:02:05
+2024-12-04 00:02:06,037 - INFO - Current time: 2024-12-04 00:02:06
+2024-12-04 00:02:06,391 - WARNING - No faces in frame 501 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0007.mp4
+2024-12-04 00:02:06,566 - INFO - Current time: 2024-12-04 00:02:06
+2024-12-04 00:02:06,853 - INFO - Current time: 2024-12-04 00:02:06
+2024-12-04 00:02:07,157 - INFO - Current time: 2024-12-04 00:02:07
+2024-12-04 00:02:07,804 - INFO - Current time: 2024-12-04 00:02:07
+2024-12-04 00:02:12,241 - INFO - Current time: 2024-12-04 00:02:12
+2024-12-04 00:02:13,148 - INFO - Current time: 2024-12-04 00:02:13
+2024-12-04 00:02:13,490 - INFO - Current time: 2024-12-04 00:02:13
+2024-12-04 00:02:14,345 - INFO - Current time: 2024-12-04 00:02:14
+2024-12-04 00:02:16,110 - INFO - Current time: 2024-12-04 00:02:16
+2024-12-04 00:02:16,352 - INFO - Current time: 2024-12-04 00:02:16
+2024-12-04 00:02:17,251 - INFO - Current time: 2024-12-04 00:02:17
+2024-12-04 00:02:18,147 - INFO - Current time: 2024-12-04 00:02:18
+2024-12-04 00:02:18,465 - INFO - Current time: 2024-12-04 00:02:18
+2024-12-04 00:02:19,115 - INFO - Current time: 2024-12-04 00:02:19
+2024-12-04 00:02:19,303 - INFO - Current time: 2024-12-04 00:02:19
+2024-12-04 00:02:19,575 - INFO - Current time: 2024-12-04 00:02:19
+2024-12-04 00:02:24,386 - INFO - Current time: 2024-12-04 00:02:24
+2024-12-04 00:02:24,912 - INFO - Current time: 2024-12-04 00:02:24
+2024-12-04 00:02:25,196 - INFO - Current time: 2024-12-04 00:02:25
+2024-12-04 00:02:26,159 - INFO - Current time: 2024-12-04 00:02:26
+2024-12-04 00:02:26,486 - INFO - Current time: 2024-12-04 00:02:26
+2024-12-04 00:02:27,265 - INFO - Current time: 2024-12-04 00:02:27
+2024-12-04 00:02:28,172 - INFO - Current time: 2024-12-04 00:02:28
+2024-12-04 00:02:28,593 - INFO - Current time: 2024-12-04 00:02:28
+2024-12-04 00:02:29,861 - INFO - Current time: 2024-12-04 00:02:29
+2024-12-04 00:02:30,483 - INFO - Current time: 2024-12-04 00:02:30
+2024-12-04 00:02:30,826 - INFO - Current time: 2024-12-04 00:02:30
+2024-12-04 00:02:31,141 - INFO - Current time: 2024-12-04 00:02:31
+2024-12-04 00:02:36,041 - INFO - Current time: 2024-12-04 00:02:36
+2024-12-04 00:02:36,493 - INFO - Current time: 2024-12-04 00:02:36
+2024-12-04 00:02:36,842 - INFO - Current time: 2024-12-04 00:02:36
+2024-12-04 00:02:37,649 - INFO - Current time: 2024-12-04 00:02:37
+2024-12-04 00:02:37,985 - INFO - Current time: 2024-12-04 00:02:37
+2024-12-04 00:02:39,221 - INFO - Current time: 2024-12-04 00:02:39
+2024-12-04 00:02:39,535 - INFO - Current time: 2024-12-04 00:02:39
+2024-12-04 00:02:39,873 - INFO - Current time: 2024-12-04 00:02:39
+2024-12-04 00:02:40,630 - WARNING - No faces in frame 97 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id16_0008.mp4
+2024-12-04 00:02:41,227 - INFO - Current time: 2024-12-04 00:02:41
+2024-12-04 00:02:41,838 - INFO - Current time: 2024-12-04 00:02:41
+2024-12-04 00:02:42,468 - INFO - Current time: 2024-12-04 00:02:42
+2024-12-04 00:02:42,708 - INFO - Current time: 2024-12-04 00:02:42
+2024-12-04 00:02:43,622 - WARNING - No faces in frame 184 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id16_0008.mp4
+2024-12-04 00:02:43,848 - WARNING - No faces in frame 195 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id16_0008.mp4
+2024-12-04 00:02:44,058 - WARNING - No faces in frame 205 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id16_0008.mp4
+2024-12-04 00:02:46,342 - INFO - Current time: 2024-12-04 00:02:46
+2024-12-04 00:02:47,257 - INFO - Current time: 2024-12-04 00:02:47
+2024-12-04 00:02:47,963 - INFO - Current time: 2024-12-04 00:02:47
+2024-12-04 00:02:48,182 - INFO - Current time: 2024-12-04 00:02:48
+2024-12-04 00:02:48,725 - INFO - Current time: 2024-12-04 00:02:48
+2024-12-04 00:02:49,400 - INFO - Current time: 2024-12-04 00:02:49
+2024-12-04 00:02:49,800 - INFO - Current time: 2024-12-04 00:02:49
+2024-12-04 00:02:50,064 - INFO - Current time: 2024-12-04 00:02:50
+2024-12-04 00:02:50,312 - INFO - Current time: 2024-12-04 00:02:50
+2024-12-04 00:02:50,943 - INFO - Current time: 2024-12-04 00:02:50
+2024-12-04 00:02:51,287 - INFO - Current time: 2024-12-04 00:02:51
+2024-12-04 00:02:52,278 - INFO - Current time: 2024-12-04 00:02:52
+2024-12-04 00:02:53,965 - INFO - Current time: 2024-12-04 00:02:53
+2024-12-04 00:02:56,951 - WARNING - No faces in frame 275 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id1_0001.mp4
+2024-12-04 00:02:57,133 - INFO - Current time: 2024-12-04 00:02:57
+2024-12-04 00:02:57,457 - INFO - Current time: 2024-12-04 00:02:57
+2024-12-04 00:02:57,786 - INFO - Current time: 2024-12-04 00:02:57
+2024-12-04 00:02:58,323 - INFO - Current time: 2024-12-04 00:02:58
+2024-12-04 00:02:58,402 - WARNING - No faces in frame 370 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id1_0000.mp4
+2024-12-04 00:02:58,589 - INFO - Current time: 2024-12-04 00:02:58
+2024-12-04 00:02:59,156 - INFO - Current time: 2024-12-04 00:02:59
+2024-12-04 00:02:59,158 - WARNING - No faces in frame 66 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-12-04 00:02:59,993 - INFO - Current time: 2024-12-04 00:02:59
+2024-12-04 00:02:59,998 - WARNING - No faces in frame 116 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-12-04 00:03:00,227 - INFO - Current time: 2024-12-04 00:03:00
+2024-12-04 00:03:00,227 - WARNING - No faces in frame 133 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-12-04 00:03:00,559 - INFO - Current time: 2024-12-04 00:03:00
+2024-12-04 00:03:01,010 - INFO - Current time: 2024-12-04 00:03:01
+2024-12-04 00:03:01,294 - INFO - Current time: 2024-12-04 00:03:01
+2024-12-04 00:03:02,775 - INFO - Current time: 2024-12-04 00:03:02
+2024-12-04 00:03:03,264 - WARNING - No faces in frame 300 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-12-04 00:03:04,011 - WARNING - No faces in frame 367 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-12-04 00:03:04,177 - WARNING - No faces in frame 384 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id1_0008.mp4
+2024-12-04 00:03:05,680 - INFO - Current time: 2024-12-04 00:03:05
+2024-12-04 00:03:05,933 - INFO - Current time: 2024-12-04 00:03:05
+2024-12-04 00:03:06,447 - INFO - Current time: 2024-12-04 00:03:06
+2024-12-04 00:03:07,520 - INFO - Current time: 2024-12-04 00:03:07
+2024-12-04 00:03:08,067 - INFO - Current time: 2024-12-04 00:03:08
+2024-12-04 00:03:08,455 - INFO - Current time: 2024-12-04 00:03:08
+2024-12-04 00:03:08,733 - INFO - Current time: 2024-12-04 00:03:08
+2024-12-04 00:03:09,004 - INFO - Current time: 2024-12-04 00:03:09
+2024-12-04 00:03:09,550 - INFO - Current time: 2024-12-04 00:03:09
+2024-12-04 00:03:10,836 - INFO - Current time: 2024-12-04 00:03:10
+2024-12-04 00:03:11,110 - INFO - Current time: 2024-12-04 00:03:11
+2024-12-04 00:03:13,943 - INFO - Current time: 2024-12-04 00:03:13
+2024-12-04 00:03:14,587 - INFO - Current time: 2024-12-04 00:03:14
+2024-12-04 00:03:15,165 - INFO - Current time: 2024-12-04 00:03:15
+2024-12-04 00:03:15,421 - INFO - Current time: 2024-12-04 00:03:15
+2024-12-04 00:03:16,349 - INFO - Current time: 2024-12-04 00:03:16
+2024-12-04 00:03:16,889 - INFO - Current time: 2024-12-04 00:03:16
+2024-12-04 00:03:17,282 - INFO - Current time: 2024-12-04 00:03:17
+2024-12-04 00:03:17,665 - INFO - Current time: 2024-12-04 00:03:17
+2024-12-04 00:03:17,974 - INFO - Current time: 2024-12-04 00:03:17
+2024-12-04 00:03:18,995 - INFO - Current time: 2024-12-04 00:03:18
+2024-12-04 00:03:19,300 - INFO - Current time: 2024-12-04 00:03:19
+2024-12-04 00:03:22,587 - INFO - Current time: 2024-12-04 00:03:22
+2024-12-04 00:03:22,587 - WARNING - No faces in frame 242 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id4_0003.mp4
+2024-12-04 00:03:25,807 - INFO - Current time: 2024-12-04 00:03:25
+2024-12-04 00:03:26,122 - INFO - Current time: 2024-12-04 00:03:26
+2024-12-04 00:03:26,967 - INFO - Current time: 2024-12-04 00:03:26
+2024-12-04 00:03:27,547 - INFO - Current time: 2024-12-04 00:03:27
+2024-12-04 00:03:28,213 - INFO - Current time: 2024-12-04 00:03:28
+2024-12-04 00:03:28,722 - INFO - Current time: 2024-12-04 00:03:28
+2024-12-04 00:03:29,079 - INFO - Current time: 2024-12-04 00:03:29
+2024-12-04 00:03:29,279 - INFO - Current time: 2024-12-04 00:03:29
+2024-12-04 00:03:29,618 - INFO - Current time: 2024-12-04 00:03:29
+2024-12-04 00:03:30,722 - INFO - Current time: 2024-12-04 00:03:30
+2024-12-04 00:03:31,923 - INFO - Current time: 2024-12-04 00:03:31
+2024-12-04 00:03:34,459 - INFO - Current time: 2024-12-04 00:03:34
+2024-12-04 00:03:37,587 - INFO - Current time: 2024-12-04 00:03:37
+2024-12-04 00:03:38,246 - INFO - Current time: 2024-12-04 00:03:38
+2024-12-04 00:03:38,911 - INFO - Current time: 2024-12-04 00:03:38
+2024-12-04 00:03:39,228 - INFO - Current time: 2024-12-04 00:03:39
+2024-12-04 00:03:39,623 - INFO - Current time: 2024-12-04 00:03:39
+2024-12-04 00:03:39,860 - INFO - Current time: 2024-12-04 00:03:39
+2024-12-04 00:03:40,469 - INFO - Current time: 2024-12-04 00:03:40
+2024-12-04 00:03:41,358 - INFO - Current time: 2024-12-04 00:03:41
+2024-12-04 00:03:41,690 - INFO - Current time: 2024-12-04 00:03:41
+2024-12-04 00:03:42,221 - INFO - Current time: 2024-12-04 00:03:42
+2024-12-04 00:03:43,079 - INFO - Current time: 2024-12-04 00:03:43
+2024-12-04 00:03:43,817 - WARNING - No faces in frame 51 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id8_0003.mp4
+2024-12-04 00:03:46,335 - INFO - Current time: 2024-12-04 00:03:46
+2024-12-04 00:03:49,378 - INFO - Current time: 2024-12-04 00:03:49
+2024-12-04 00:03:49,706 - INFO - Current time: 2024-12-04 00:03:49
+2024-12-04 00:03:50,297 - INFO - Current time: 2024-12-04 00:03:50
+2024-12-04 00:03:50,568 - INFO - Current time: 2024-12-04 00:03:50
+2024-12-04 00:03:51,429 - INFO - Current time: 2024-12-04 00:03:51
+2024-12-04 00:03:51,690 - INFO - Current time: 2024-12-04 00:03:51
+2024-12-04 00:03:52,296 - INFO - Current time: 2024-12-04 00:03:52
+2024-12-04 00:03:53,245 - INFO - Current time: 2024-12-04 00:03:53
+2024-12-04 00:03:53,782 - INFO - Current time: 2024-12-04 00:03:53
+2024-12-04 00:03:54,594 - INFO - Current time: 2024-12-04 00:03:54
+2024-12-04 00:03:55,525 - INFO - Current time: 2024-12-04 00:03:55
+2024-12-04 00:03:57,220 - INFO - Current time: 2024-12-04 00:03:57
+2024-12-04 00:04:01,137 - INFO - Current time: 2024-12-04 00:04:01
+2024-12-04 00:04:01,976 - INFO - Current time: 2024-12-04 00:04:01
+2024-12-04 00:04:01,976 - WARNING - No faces in frame 377 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id8_0009.mp4
+2024-12-04 00:04:02,075 - INFO - Current time: 2024-12-04 00:04:02
+2024-12-04 00:04:02,614 - INFO - Current time: 2024-12-04 00:04:02
+2024-12-04 00:04:02,644 - INFO - Current time: 2024-12-04 00:04:02
+2024-12-04 00:04:02,896 - INFO - Current time: 2024-12-04 00:04:02
+2024-12-04 00:04:02,915 - INFO - Current time: 2024-12-04 00:04:02
+2024-12-04 00:04:03,357 - INFO - Current time: 2024-12-04 00:04:03
+2024-12-04 00:04:03,522 - INFO - Current time: 2024-12-04 00:04:03
+2024-12-04 00:04:04,080 - INFO - Current time: 2024-12-04 00:04:04
+2024-12-04 00:04:04,365 - INFO - Current time: 2024-12-04 00:04:04
+2024-12-04 00:04:05,018 - INFO - Current time: 2024-12-04 00:04:05
+2024-12-04 00:04:07,033 - INFO - Current time: 2024-12-04 00:04:07
+2024-12-04 00:04:07,191 - INFO - Current time: 2024-12-04 00:04:07
+2024-12-04 00:04:07,191 - INFO - Total time taken: 2.45 minutes
+2024-12-04 00:04:07,198 - INFO - 795 videos found in /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis
+2024-12-04 00:04:12,531 - WARNING - No faces in frame 117 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id16_0009.mp4
+2024-12-04 00:04:12,800 - WARNING - No faces in frame 133 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id16_0009.mp4
+2024-12-04 00:04:19,654 - INFO - Current time: 2024-12-04 00:04:19
+2024-12-04 00:04:20,064 - INFO - Current time: 2024-12-04 00:04:20
+2024-12-04 00:04:20,476 - INFO - Current time: 2024-12-04 00:04:20
+2024-12-04 00:04:20,556 - INFO - Current time: 2024-12-04 00:04:20
+2024-12-04 00:04:20,835 - INFO - Current time: 2024-12-04 00:04:20
+2024-12-04 00:04:21,120 - INFO - Current time: 2024-12-04 00:04:21
+2024-12-04 00:04:21,459 - INFO - Current time: 2024-12-04 00:04:21
+2024-12-04 00:04:21,964 - INFO - Current time: 2024-12-04 00:04:21
+2024-12-04 00:04:22,122 - INFO - Current time: 2024-12-04 00:04:22
+2024-12-04 00:04:22,378 - INFO - Current time: 2024-12-04 00:04:22
+2024-12-04 00:04:22,821 - INFO - Current time: 2024-12-04 00:04:22
+2024-12-04 00:04:23,122 - INFO - Current time: 2024-12-04 00:04:23
+2024-12-04 00:04:24,742 - WARNING - No faces in frame 117 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id17_0009.mp4
+2024-12-04 00:04:25,025 - WARNING - No faces in frame 133 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id17_0009.mp4
+2024-12-04 00:04:31,702 - INFO - Current time: 2024-12-04 00:04:31
+2024-12-04 00:04:32,021 - INFO - Current time: 2024-12-04 00:04:32
+2024-12-04 00:04:32,372 - INFO - Current time: 2024-12-04 00:04:32
+2024-12-04 00:04:32,830 - INFO - Current time: 2024-12-04 00:04:32
+2024-12-04 00:04:33,171 - INFO - Current time: 2024-12-04 00:04:33
+2024-12-04 00:04:33,891 - INFO - Current time: 2024-12-04 00:04:33
+2024-12-04 00:04:33,892 - INFO - Current time: 2024-12-04 00:04:33
+2024-12-04 00:04:34,316 - INFO - Current time: 2024-12-04 00:04:34
+2024-12-04 00:04:34,478 - INFO - Current time: 2024-12-04 00:04:34
+2024-12-04 00:04:34,962 - INFO - Current time: 2024-12-04 00:04:34
+2024-12-04 00:04:35,316 - INFO - Current time: 2024-12-04 00:04:35
+2024-12-04 00:04:35,828 - INFO - Current time: 2024-12-04 00:04:35
+2024-12-04 00:04:36,830 - WARNING - No faces in frame 117 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id1_0009.mp4
+2024-12-04 00:04:37,107 - WARNING - No faces in frame 133 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id1_0009.mp4
+2024-12-04 00:04:43,777 - INFO - Current time: 2024-12-04 00:04:43
+2024-12-04 00:04:44,103 - INFO - Current time: 2024-12-04 00:04:44
+2024-12-04 00:04:44,627 - INFO - Current time: 2024-12-04 00:04:44
+2024-12-04 00:04:44,707 - INFO - Current time: 2024-12-04 00:04:44
+2024-12-04 00:04:45,258 - INFO - Current time: 2024-12-04 00:04:45
+2024-12-04 00:04:45,549 - INFO - Current time: 2024-12-04 00:04:45
+2024-12-04 00:04:46,117 - INFO - Current time: 2024-12-04 00:04:46
+2024-12-04 00:04:46,481 - INFO - Current time: 2024-12-04 00:04:46
+2024-12-04 00:04:46,668 - INFO - Current time: 2024-12-04 00:04:46
+2024-12-04 00:04:47,209 - INFO - Current time: 2024-12-04 00:04:47
+2024-12-04 00:04:47,743 - INFO - Current time: 2024-12-04 00:04:47
+2024-12-04 00:04:47,824 - INFO - Current time: 2024-12-04 00:04:47
+2024-12-04 00:04:50,015 - WARNING - No faces in frame 117 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id3_0009.mp4
+2024-12-04 00:04:50,312 - WARNING - No faces in frame 133 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id3_0009.mp4
+2024-12-04 00:04:56,102 - INFO - Current time: 2024-12-04 00:04:56
+2024-12-04 00:04:56,475 - INFO - Current time: 2024-12-04 00:04:56
+2024-12-04 00:04:56,672 - INFO - Current time: 2024-12-04 00:04:56
+2024-12-04 00:04:57,301 - INFO - Current time: 2024-12-04 00:04:57
+2024-12-04 00:04:57,512 - INFO - Current time: 2024-12-04 00:04:57
+2024-12-04 00:04:58,093 - INFO - Current time: 2024-12-04 00:04:58
+2024-12-04 00:04:58,660 - INFO - Current time: 2024-12-04 00:04:58
+2024-12-04 00:04:59,132 - INFO - Current time: 2024-12-04 00:04:59
+2024-12-04 00:04:59,536 - INFO - Current time: 2024-12-04 00:04:59
+2024-12-04 00:04:59,537 - INFO - Current time: 2024-12-04 00:04:59
+2024-12-04 00:04:59,981 - INFO - Current time: 2024-12-04 00:04:59
+2024-12-04 00:05:00,339 - INFO - Current time: 2024-12-04 00:05:00
+2024-12-04 00:05:02,900 - WARNING - No faces in frame 117 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id6_0009.mp4
+2024-12-04 00:05:03,159 - WARNING - No faces in frame 133 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id6_0009.mp4
+2024-12-04 00:05:05,940 - WARNING - No faces in frame 251 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id4_0004.mp4
+2024-12-04 00:05:07,980 - INFO - Current time: 2024-12-04 00:05:07
+2024-12-04 00:05:08,287 - INFO - Current time: 2024-12-04 00:05:08
+2024-12-04 00:05:08,866 - INFO - Current time: 2024-12-04 00:05:08
+2024-12-04 00:05:09,457 - INFO - Current time: 2024-12-04 00:05:09
+2024-12-04 00:05:09,734 - INFO - Current time: 2024-12-04 00:05:09
+2024-12-04 00:05:10,273 - INFO - Current time: 2024-12-04 00:05:10
+2024-12-04 00:05:10,732 - INFO - Current time: 2024-12-04 00:05:10
+2024-12-04 00:05:10,890 - INFO - Current time: 2024-12-04 00:05:10
+2024-12-04 00:05:11,399 - INFO - Current time: 2024-12-04 00:05:11
+2024-12-04 00:05:12,392 - INFO - Current time: 2024-12-04 00:05:12
+2024-12-04 00:05:12,651 - INFO - Current time: 2024-12-04 00:05:12
+2024-12-04 00:05:12,843 - INFO - Current time: 2024-12-04 00:05:12
+2024-12-04 00:05:13,263 - WARNING - No faces in frame 3 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:13,479 - WARNING - No faces in frame 6 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:13,734 - WARNING - No faces in frame 10 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:13,950 - WARNING - No faces in frame 13 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:15,117 - WARNING - No faces in frame 133 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id0_id9_0009.mp4
+2024-12-04 00:05:16,206 - WARNING - No faces in frame 40 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:17,600 - WARNING - No faces in frame 57 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:17,866 - WARNING - No faces in frame 60 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:18,138 - WARNING - No faces in frame 63 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:19,580 - WARNING - No faces in frame 80 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:19,812 - WARNING - No faces in frame 83 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:20,117 - INFO - Current time: 2024-12-04 00:05:20
+2024-12-04 00:05:20,511 - WARNING - No faces in frame 90 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:20,764 - WARNING - No faces in frame 93 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:21,122 - INFO - Current time: 2024-12-04 00:05:21
+2024-12-04 00:05:21,318 - INFO - Current time: 2024-12-04 00:05:21
+2024-12-04 00:05:21,399 - WARNING - No faces in frame 97 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:21,629 - WARNING - No faces in frame 100 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:21,918 - INFO - Current time: 2024-12-04 00:05:21
+2024-12-04 00:05:22,047 - WARNING - No faces in frame 104 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id11_0001.mp4
+2024-12-04 00:05:22,281 - INFO - Current time: 2024-12-04 00:05:22
+2024-12-04 00:05:22,695 - INFO - Current time: 2024-12-04 00:05:22
+2024-12-04 00:05:22,955 - INFO - Current time: 2024-12-04 00:05:22
+2024-12-04 00:05:23,287 - INFO - Current time: 2024-12-04 00:05:23
+2024-12-04 00:05:23,551 - INFO - Current time: 2024-12-04 00:05:23
+2024-12-04 00:05:24,105 - INFO - Current time: 2024-12-04 00:05:24
+2024-12-04 00:05:24,565 - INFO - Current time: 2024-12-04 00:05:24
+2024-12-04 00:05:24,877 - INFO - Current time: 2024-12-04 00:05:24
+2024-12-04 00:05:25,479 - WARNING - No faces in frame 13 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id12_0001.mp4
+2024-12-04 00:05:30,428 - INFO - Current time: 2024-12-04 00:05:30
+2024-12-04 00:05:30,906 - INFO - Current time: 2024-12-04 00:05:30
+2024-12-04 00:05:31,772 - WARNING - No faces in frame 6 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:32,233 - INFO - Current time: 2024-12-04 00:05:32
+2024-12-04 00:05:32,602 - WARNING - No faces in frame 13 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:33,161 - WARNING - No faces in frame 20 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:33,493 - INFO - Current time: 2024-12-04 00:05:33
+2024-12-04 00:05:33,948 - INFO - Current time: 2024-12-04 00:05:33
+2024-12-04 00:05:34,490 - INFO - Current time: 2024-12-04 00:05:34
+2024-12-04 00:05:35,011 - INFO - Current time: 2024-12-04 00:05:35
+2024-12-04 00:05:35,303 - INFO - Current time: 2024-12-04 00:05:35
+2024-12-04 00:05:35,590 - INFO - Current time: 2024-12-04 00:05:35
+2024-12-04 00:05:36,234 - WARNING - No faces in frame 43 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:36,784 - INFO - Current time: 2024-12-04 00:05:36
+2024-12-04 00:05:36,786 - INFO - Current time: 2024-12-04 00:05:36
+2024-12-04 00:05:37,075 - WARNING - No faces in frame 50 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:37,378 - WARNING - No faces in frame 3 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:37,577 - WARNING - No faces in frame 57 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:37,609 - WARNING - No faces in frame 6 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:37,984 - INFO - Current time: 2024-12-04 00:05:37
+2024-12-04 00:05:38,100 - WARNING - No faces in frame 60 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:38,109 - WARNING - No faces in frame 10 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:38,323 - WARNING - No faces in frame 13 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:38,410 - WARNING - No faces in frame 63 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:38,588 - WARNING - No faces in frame 16 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:38,855 - WARNING - No faces in frame 20 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:39,762 - INFO - Current time: 2024-12-04 00:05:39
+2024-12-04 00:05:39,894 - WARNING - No faces in frame 80 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:40,168 - WARNING - No faces in frame 83 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:40,756 - WARNING - No faces in frame 90 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:40,761 - WARNING - No faces in frame 40 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:41,012 - WARNING - No faces in frame 93 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:41,258 - WARNING - No faces in frame 97 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:41,528 - WARNING - No faces in frame 100 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:41,580 - WARNING - No faces in frame 50 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:41,794 - WARNING - No faces in frame 104 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id13_0001.mp4
+2024-12-04 00:05:41,990 - INFO - Current time: 2024-12-04 00:05:41
+2024-12-04 00:05:42,112 - WARNING - No faces in frame 53 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:42,386 - WARNING - No faces in frame 57 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:42,657 - WARNING - No faces in frame 60 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:42,951 - WARNING - No faces in frame 63 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:43,358 - INFO - Current time: 2024-12-04 00:05:43
+2024-12-04 00:05:43,681 - INFO - Current time: 2024-12-04 00:05:43
+2024-12-04 00:05:44,582 - INFO - Current time: 2024-12-04 00:05:44
+2024-12-04 00:05:44,971 - WARNING - No faces in frame 80 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:45,225 - WARNING - No faces in frame 83 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:45,802 - WARNING - No faces in frame 90 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:46,098 - WARNING - No faces in frame 93 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:46,457 - INFO - Current time: 2024-12-04 00:05:46
+2024-12-04 00:05:46,550 - WARNING - No faces in frame 97 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:46,792 - INFO - Current time: 2024-12-04 00:05:46
+2024-12-04 00:05:46,914 - WARNING - No faces in frame 100 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:47,148 - WARNING - No faces in frame 104 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id10_id7_0001.mp4
+2024-12-04 00:05:47,231 - INFO - Current time: 2024-12-04 00:05:47
+2024-12-04 00:05:47,507 - INFO - Current time: 2024-12-04 00:05:47
+2024-12-04 00:05:48,282 - INFO - Current time: 2024-12-04 00:05:48
+2024-12-04 00:05:48,835 - INFO - Current time: 2024-12-04 00:05:48
+2024-12-04 00:05:49,151 - WARNING - No faces in frame 0 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id11_id7_0004.mp4
+2024-12-04 00:05:50,383 - INFO - Current time: 2024-12-04 00:05:50
+2024-12-04 00:05:51,915 - INFO - Current time: 2024-12-04 00:05:51
+2024-12-04 00:05:52,175 - INFO - Current time: 2024-12-04 00:05:52
+2024-12-04 00:05:53,348 - INFO - Current time: 2024-12-04 00:05:53
+2024-12-04 00:05:54,464 - INFO - Current time: 2024-12-04 00:05:54
+2024-12-04 00:05:54,809 - INFO - Current time: 2024-12-04 00:05:54
+2024-12-04 00:05:56,274 - INFO - Current time: 2024-12-04 00:05:56
+2024-12-04 00:05:59,307 - INFO - Current time: 2024-12-04 00:05:59
+2024-12-04 00:05:59,587 - INFO - Current time: 2024-12-04 00:05:59
+2024-12-04 00:05:59,848 - INFO - Current time: 2024-12-04 00:05:59
+2024-12-04 00:06:00,442 - INFO - Current time: 2024-12-04 00:06:00
+2024-12-04 00:06:01,011 - INFO - Current time: 2024-12-04 00:06:01
+2024-12-04 00:06:02,845 - INFO - Current time: 2024-12-04 00:06:02
+2024-12-04 00:06:03,160 - INFO - Current time: 2024-12-04 00:06:03
+2024-12-04 00:06:04,409 - INFO - Current time: 2024-12-04 00:06:04
+2024-12-04 00:06:04,916 - INFO - Current time: 2024-12-04 00:06:04
+2024-12-04 00:06:05,483 - INFO - Current time: 2024-12-04 00:06:05
+2024-12-04 00:06:06,724 - INFO - Current time: 2024-12-04 00:06:06
+2024-12-04 00:06:08,695 - INFO - Current time: 2024-12-04 00:06:08
+2024-12-04 00:06:11,095 - INFO - Current time: 2024-12-04 00:06:11
+2024-12-04 00:06:11,392 - INFO - Current time: 2024-12-04 00:06:11
+2024-12-04 00:06:11,972 - INFO - Current time: 2024-12-04 00:06:11
+2024-12-04 00:06:12,847 - INFO - Current time: 2024-12-04 00:06:12
+2024-12-04 00:06:13,493 - INFO - Current time: 2024-12-04 00:06:13
+2024-12-04 00:06:14,957 - INFO - Current time: 2024-12-04 00:06:14
+2024-12-04 00:06:15,317 - INFO - Current time: 2024-12-04 00:06:15
+2024-12-04 00:06:16,434 - INFO - Current time: 2024-12-04 00:06:16
+2024-12-04 00:06:17,092 - INFO - Current time: 2024-12-04 00:06:17
+2024-12-04 00:06:17,647 - INFO - Current time: 2024-12-04 00:06:17
+2024-12-04 00:06:18,810 - INFO - Current time: 2024-12-04 00:06:18
+2024-12-04 00:06:20,859 - INFO - Current time: 2024-12-04 00:06:20
+2024-12-04 00:06:21,211 - INFO - Current time: 2024-12-04 00:06:21
+2024-12-04 00:06:21,680 - INFO - Current time: 2024-12-04 00:06:21
+2024-12-04 00:06:23,746 - INFO - Current time: 2024-12-04 00:06:23
+2024-12-04 00:06:24,723 - INFO - Current time: 2024-12-04 00:06:24
+2024-12-04 00:06:25,690 - INFO - Current time: 2024-12-04 00:06:25
+2024-12-04 00:06:26,751 - INFO - Current time: 2024-12-04 00:06:26
+2024-12-04 00:06:27,716 - INFO - Current time: 2024-12-04 00:06:27
+2024-12-04 00:06:29,404 - INFO - Current time: 2024-12-04 00:06:29
+2024-12-04 00:06:29,487 - INFO - Current time: 2024-12-04 00:06:29
+2024-12-04 00:06:30,045 - INFO - Current time: 2024-12-04 00:06:30
+2024-12-04 00:06:30,833 - INFO - Current time: 2024-12-04 00:06:30
+2024-12-04 00:06:31,178 - INFO - Current time: 2024-12-04 00:06:31
+2024-12-04 00:06:33,480 - INFO - Current time: 2024-12-04 00:06:33
+2024-12-04 00:06:33,795 - INFO - Current time: 2024-12-04 00:06:33
+2024-12-04 00:06:34,069 - INFO - Current time: 2024-12-04 00:06:34
+2024-12-04 00:06:37,376 - INFO - Current time: 2024-12-04 00:06:37
+2024-12-04 00:06:38,321 - INFO - Current time: 2024-12-04 00:06:38
+2024-12-04 00:06:39,242 - INFO - Current time: 2024-12-04 00:06:39
+2024-12-04 00:06:40,224 - INFO - Current time: 2024-12-04 00:06:40
+2024-12-04 00:06:41,428 - INFO - Current time: 2024-12-04 00:06:41
+2024-12-04 00:06:41,695 - INFO - Current time: 2024-12-04 00:06:41
+2024-12-04 00:06:42,242 - INFO - Current time: 2024-12-04 00:06:42
+2024-12-04 00:06:42,847 - INFO - Current time: 2024-12-04 00:06:42
+2024-12-04 00:06:43,295 - INFO - Current time: 2024-12-04 00:06:43
+2024-12-04 00:06:44,947 - INFO - Current time: 2024-12-04 00:06:44
+2024-12-04 00:06:45,546 - INFO - Current time: 2024-12-04 00:06:45
+2024-12-04 00:06:45,889 - INFO - Current time: 2024-12-04 00:06:45
+2024-12-04 00:06:48,462 - INFO - Current time: 2024-12-04 00:06:48
+2024-12-04 00:06:49,219 - INFO - Current time: 2024-12-04 00:06:49
+2024-12-04 00:06:50,146 - INFO - Current time: 2024-12-04 00:06:50
+2024-12-04 00:06:50,910 - INFO - Current time: 2024-12-04 00:06:50
+2024-12-04 00:06:51,498 - INFO - Current time: 2024-12-04 00:06:51
+2024-12-04 00:06:51,901 - INFO - Current time: 2024-12-04 00:06:51
+2024-12-04 00:06:53,856 - INFO - Current time: 2024-12-04 00:06:53
+2024-12-04 00:06:54,262 - INFO - Current time: 2024-12-04 00:06:54
+2024-12-04 00:06:54,832 - INFO - Current time: 2024-12-04 00:06:54
+2024-12-04 00:06:56,863 - INFO - Current time: 2024-12-04 00:06:56
+2024-12-04 00:06:57,119 - INFO - Current time: 2024-12-04 00:06:57
+2024-12-04 00:06:57,493 - WARNING - No faces in frame 167 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id16_id17_0010.mp4
+2024-12-04 00:06:58,092 - INFO - Current time: 2024-12-04 00:06:58
+2024-12-04 00:06:59,064 - INFO - Current time: 2024-12-04 00:06:59
+2024-12-04 00:07:00,096 - INFO - Current time: 2024-12-04 00:07:00
+2024-12-04 00:07:00,932 - INFO - Current time: 2024-12-04 00:07:00
+2024-12-04 00:07:02,078 - INFO - Current time: 2024-12-04 00:07:02
+2024-12-04 00:07:02,735 - INFO - Current time: 2024-12-04 00:07:02
+2024-12-04 00:07:03,225 - INFO - Current time: 2024-12-04 00:07:03
+2024-12-04 00:07:03,890 - INFO - Current time: 2024-12-04 00:07:03
+2024-12-04 00:07:06,080 - INFO - Current time: 2024-12-04 00:07:06
+2024-12-04 00:07:07,109 - INFO - Current time: 2024-12-04 00:07:07
+2024-12-04 00:07:08,272 - WARNING - No faces in frame 135 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id16_id1_0010.mp4
+2024-12-04 00:07:08,801 - INFO - Current time: 2024-12-04 00:07:08
+2024-12-04 00:07:09,659 - INFO - Current time: 2024-12-04 00:07:09
+2024-12-04 00:07:10,301 - INFO - Current time: 2024-12-04 00:07:10
+2024-12-04 00:07:10,940 - INFO - Current time: 2024-12-04 00:07:10
+2024-12-04 00:07:12,066 - INFO - Current time: 2024-12-04 00:07:12
+2024-12-04 00:07:12,291 - INFO - Current time: 2024-12-04 00:07:12
+2024-12-04 00:07:13,171 - INFO - Current time: 2024-12-04 00:07:13
+2024-12-04 00:07:14,669 - INFO - Current time: 2024-12-04 00:07:14
+2024-12-04 00:07:15,286 - INFO - Current time: 2024-12-04 00:07:15
+2024-12-04 00:07:16,026 - INFO - Current time: 2024-12-04 00:07:16
+2024-12-04 00:07:16,309 - INFO - Current time: 2024-12-04 00:07:16
+2024-12-04 00:07:18,472 - INFO - Current time: 2024-12-04 00:07:18
+2024-12-04 00:07:20,687 - WARNING - No faces in frame 135 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id16_id2_0010.mp4
+2024-12-04 00:07:21,200 - INFO - Current time: 2024-12-04 00:07:21
+2024-12-04 00:07:21,548 - INFO - Current time: 2024-12-04 00:07:21
+2024-12-04 00:07:21,930 - WARNING - No faces in frame 167 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id16_id2_0010.mp4
+2024-12-04 00:07:22,500 - INFO - Current time: 2024-12-04 00:07:22
+2024-12-04 00:07:23,220 - INFO - Current time: 2024-12-04 00:07:23
+2024-12-04 00:07:23,400 - INFO - Current time: 2024-12-04 00:07:23
+2024-12-04 00:07:24,272 - INFO - Current time: 2024-12-04 00:07:24
+2024-12-04 00:07:24,920 - INFO - Current time: 2024-12-04 00:07:24
+2024-12-04 00:07:25,191 - INFO - Current time: 2024-12-04 00:07:25
+2024-12-04 00:07:26,720 - INFO - Current time: 2024-12-04 00:07:26
+2024-12-04 00:07:27,330 - INFO - Current time: 2024-12-04 00:07:27
+2024-12-04 00:07:27,894 - INFO - Current time: 2024-12-04 00:07:27
+2024-12-04 00:07:30,244 - INFO - Current time: 2024-12-04 00:07:30
+2024-12-04 00:07:30,859 - INFO - Current time: 2024-12-04 00:07:30
+2024-12-04 00:07:33,313 - INFO - Current time: 2024-12-04 00:07:33
+2024-12-04 00:07:34,342 - INFO - Current time: 2024-12-04 00:07:34
+2024-12-04 00:07:34,956 - INFO - Current time: 2024-12-04 00:07:34
+2024-12-04 00:07:35,499 - INFO - Current time: 2024-12-04 00:07:35
+2024-12-04 00:07:36,736 - INFO - Current time: 2024-12-04 00:07:36
+2024-12-04 00:07:36,740 - INFO - Current time: 2024-12-04 00:07:36
+2024-12-04 00:07:37,010 - INFO - Current time: 2024-12-04 00:07:37
+2024-12-04 00:07:38,231 - INFO - Current time: 2024-12-04 00:07:38
+2024-12-04 00:07:38,520 - INFO - Current time: 2024-12-04 00:07:38
+2024-12-04 00:07:39,387 - INFO - Current time: 2024-12-04 00:07:39
+2024-12-04 00:07:39,953 - INFO - Current time: 2024-12-04 00:07:39
+2024-12-04 00:07:42,253 - INFO - Current time: 2024-12-04 00:07:42
+2024-12-04 00:07:43,527 - INFO - Current time: 2024-12-04 00:07:43
+2024-12-04 00:07:46,509 - INFO - Current time: 2024-12-04 00:07:46
+2024-12-04 00:07:46,829 - INFO - Current time: 2024-12-04 00:07:46
+2024-12-04 00:07:47,735 - INFO - Current time: 2024-12-04 00:07:47
+2024-12-04 00:07:48,398 - INFO - Current time: 2024-12-04 00:07:48
+2024-12-04 00:07:48,947 - INFO - Current time: 2024-12-04 00:07:48
+2024-12-04 00:07:49,314 - INFO - Current time: 2024-12-04 00:07:49
+2024-12-04 00:07:49,678 - INFO - Current time: 2024-12-04 00:07:49
+2024-12-04 00:07:50,315 - INFO - Current time: 2024-12-04 00:07:50
+2024-12-04 00:07:50,678 - INFO - Current time: 2024-12-04 00:07:50
+2024-12-04 00:07:51,514 - INFO - Current time: 2024-12-04 00:07:51
+2024-12-04 00:07:52,087 - INFO - Current time: 2024-12-04 00:07:52
+2024-12-04 00:07:55,464 - INFO - Current time: 2024-12-04 00:07:55
+2024-12-04 00:07:56,097 - INFO - Current time: 2024-12-04 00:07:56
+2024-12-04 00:07:58,804 - INFO - Current time: 2024-12-04 00:07:58
+2024-12-04 00:07:59,461 - INFO - Current time: 2024-12-04 00:07:59
+2024-12-04 00:08:00,067 - INFO - Current time: 2024-12-04 00:08:00
+2024-12-04 00:08:00,702 - INFO - Current time: 2024-12-04 00:08:00
+2024-12-04 00:08:00,989 - INFO - Current time: 2024-12-04 00:08:00
+2024-12-04 00:08:01,599 - INFO - Current time: 2024-12-04 00:08:01
+2024-12-04 00:08:01,911 - INFO - Current time: 2024-12-04 00:08:01
+2024-12-04 00:08:02,324 - INFO - Current time: 2024-12-04 00:08:02
+2024-12-04 00:08:03,207 - INFO - Current time: 2024-12-04 00:08:03
+2024-12-04 00:08:03,570 - INFO - Current time: 2024-12-04 00:08:03
+2024-12-04 00:08:04,216 - INFO - Current time: 2024-12-04 00:08:04
+2024-12-04 00:08:07,506 - INFO - Current time: 2024-12-04 00:08:07
+2024-12-04 00:08:07,837 - INFO - Current time: 2024-12-04 00:08:07
+2024-12-04 00:08:08,264 - INFO - Current time: 2024-12-04 00:08:08
+2024-12-04 00:08:09,160 - INFO - Current time: 2024-12-04 00:08:09
+2024-12-04 00:08:09,535 - INFO - Current time: 2024-12-04 00:08:09
+2024-12-04 00:08:09,866 - INFO - Current time: 2024-12-04 00:08:09
+2024-12-04 00:08:10,349 - INFO - Current time: 2024-12-04 00:08:10
+2024-12-04 00:08:12,731 - INFO - Current time: 2024-12-04 00:08:12
+2024-12-04 00:08:13,065 - INFO - Current time: 2024-12-04 00:08:13
+2024-12-04 00:08:13,324 - INFO - Current time: 2024-12-04 00:08:13
+2024-12-04 00:08:14,146 - INFO - Current time: 2024-12-04 00:08:14
+2024-12-04 00:08:14,968 - INFO - Current time: 2024-12-04 00:08:14
+2024-12-04 00:08:16,364 - INFO - Current time: 2024-12-04 00:08:16
+2024-12-04 00:08:16,676 - INFO - Current time: 2024-12-04 00:08:16
+2024-12-04 00:08:17,129 - INFO - Current time: 2024-12-04 00:08:17
+2024-12-04 00:08:17,404 - INFO - Current time: 2024-12-04 00:08:17
+2024-12-04 00:08:21,108 - INFO - Current time: 2024-12-04 00:08:21
+2024-12-04 00:08:21,359 - INFO - Current time: 2024-12-04 00:08:21
+2024-12-04 00:08:21,627 - INFO - Current time: 2024-12-04 00:08:21
+2024-12-04 00:08:22,081 - INFO - Current time: 2024-12-04 00:08:22
+2024-12-04 00:08:22,369 - INFO - Current time: 2024-12-04 00:08:22
+2024-12-04 00:08:23,236 - INFO - Current time: 2024-12-04 00:08:23
+2024-12-04 00:08:23,528 - INFO - Current time: 2024-12-04 00:08:23
+2024-12-04 00:08:23,965 - INFO - Current time: 2024-12-04 00:08:23
+2024-12-04 00:08:25,124 - INFO - Current time: 2024-12-04 00:08:25
+2024-12-04 00:08:28,385 - INFO - Current time: 2024-12-04 00:08:28
+2024-12-04 00:08:28,464 - INFO - Current time: 2024-12-04 00:08:28
+2024-12-04 00:08:28,658 - INFO - Current time: 2024-12-04 00:08:28
+2024-12-04 00:08:29,950 - INFO - Current time: 2024-12-04 00:08:29
+2024-12-04 00:08:30,538 - INFO - Current time: 2024-12-04 00:08:30
+2024-12-04 00:08:31,044 - INFO - Current time: 2024-12-04 00:08:31
+2024-12-04 00:08:31,221 - INFO - Current time: 2024-12-04 00:08:31
+2024-12-04 00:08:31,690 - INFO - Current time: 2024-12-04 00:08:31
+2024-12-04 00:08:32,994 - INFO - Current time: 2024-12-04 00:08:32
+2024-12-04 00:08:35,093 - INFO - Current time: 2024-12-04 00:08:35
+2024-12-04 00:08:35,435 - INFO - Current time: 2024-12-04 00:08:35
+2024-12-04 00:08:36,488 - INFO - Current time: 2024-12-04 00:08:36
+2024-12-04 00:08:37,158 - INFO - Current time: 2024-12-04 00:08:37
+2024-12-04 00:08:37,646 - INFO - Current time: 2024-12-04 00:08:37
+2024-12-04 00:08:38,432 - INFO - Current time: 2024-12-04 00:08:38
+2024-12-04 00:08:39,321 - INFO - Current time: 2024-12-04 00:08:39
+2024-12-04 00:08:39,650 - INFO - Current time: 2024-12-04 00:08:39
+2024-12-04 00:08:40,490 - INFO - Current time: 2024-12-04 00:08:40
+2024-12-04 00:08:42,326 - INFO - Current time: 2024-12-04 00:08:42
+2024-12-04 00:08:43,032 - INFO - Current time: 2024-12-04 00:08:43
+2024-12-04 00:08:44,192 - INFO - Current time: 2024-12-04 00:08:44
+2024-12-04 00:08:44,780 - INFO - Current time: 2024-12-04 00:08:44
+2024-12-04 00:08:45,104 - INFO - Current time: 2024-12-04 00:08:45
+2024-12-04 00:08:45,533 - INFO - Current time: 2024-12-04 00:08:45
+2024-12-04 00:08:46,425 - INFO - Current time: 2024-12-04 00:08:46
+2024-12-04 00:08:46,795 - INFO - Current time: 2024-12-04 00:08:46
+2024-12-04 00:08:46,982 - INFO - Current time: 2024-12-04 00:08:46
+2024-12-04 00:08:50,436 - INFO - Current time: 2024-12-04 00:08:50
+2024-12-04 00:08:50,785 - INFO - Current time: 2024-12-04 00:08:50
+2024-12-04 00:08:51,632 - INFO - Current time: 2024-12-04 00:08:51
+2024-12-04 00:08:51,961 - INFO - Current time: 2024-12-04 00:08:51
+2024-12-04 00:08:52,459 - INFO - Current time: 2024-12-04 00:08:52
+2024-12-04 00:08:53,114 - INFO - Current time: 2024-12-04 00:08:53
+2024-12-04 00:08:53,789 - INFO - Current time: 2024-12-04 00:08:53
+2024-12-04 00:08:54,340 - INFO - Current time: 2024-12-04 00:08:54
+2024-12-04 00:08:54,632 - INFO - Current time: 2024-12-04 00:08:54
+2024-12-04 00:08:57,122 - INFO - Current time: 2024-12-04 00:08:57
+2024-12-04 00:08:57,440 - INFO - Current time: 2024-12-04 00:08:57
+2024-12-04 00:08:58,244 - INFO - Current time: 2024-12-04 00:08:58
+2024-12-04 00:08:59,545 - INFO - Current time: 2024-12-04 00:08:59
+2024-12-04 00:09:00,269 - INFO - Current time: 2024-12-04 00:09:00
+2024-12-04 00:09:00,833 - INFO - Current time: 2024-12-04 00:09:00
+2024-12-04 00:09:00,913 - INFO - Current time: 2024-12-04 00:09:00
+2024-12-04 00:09:02,300 - INFO - Current time: 2024-12-04 00:09:02
+2024-12-04 00:09:02,580 - INFO - Current time: 2024-12-04 00:09:02
+2024-12-04 00:09:02,855 - INFO - Current time: 2024-12-04 00:09:02
+2024-12-04 00:09:03,208 - INFO - Current time: 2024-12-04 00:09:03
+2024-12-04 00:09:04,088 - INFO - Current time: 2024-12-04 00:09:04
+2024-12-04 00:09:05,948 - INFO - Current time: 2024-12-04 00:09:05
+2024-12-04 00:09:06,790 - INFO - Current time: 2024-12-04 00:09:06
+2024-12-04 00:09:07,112 - INFO - Current time: 2024-12-04 00:09:07
+2024-12-04 00:09:08,453 - INFO - Current time: 2024-12-04 00:09:08
+2024-12-04 00:09:08,947 - INFO - Current time: 2024-12-04 00:09:08
+2024-12-04 00:09:09,353 - INFO - Current time: 2024-12-04 00:09:09
+2024-12-04 00:09:10,241 - INFO - Current time: 2024-12-04 00:09:10
+2024-12-04 00:09:10,750 - INFO - Current time: 2024-12-04 00:09:10
+2024-12-04 00:09:11,291 - INFO - Current time: 2024-12-04 00:09:11
+2024-12-04 00:09:11,765 - INFO - Current time: 2024-12-04 00:09:11
+2024-12-04 00:09:12,260 - INFO - Current time: 2024-12-04 00:09:12
+2024-12-04 00:09:12,928 - INFO - Current time: 2024-12-04 00:09:12
+2024-12-04 00:09:14,631 - INFO - Current time: 2024-12-04 00:09:14
+2024-12-04 00:09:15,068 - INFO - Current time: 2024-12-04 00:09:15
+2024-12-04 00:09:16,786 - INFO - Current time: 2024-12-04 00:09:16
+2024-12-04 00:09:17,493 - INFO - Current time: 2024-12-04 00:09:17
+2024-12-04 00:09:18,306 - INFO - Current time: 2024-12-04 00:09:18
+2024-12-04 00:09:18,922 - INFO - Current time: 2024-12-04 00:09:18
+2024-12-04 00:09:19,165 - INFO - Current time: 2024-12-04 00:09:19
+2024-12-04 00:09:19,853 - INFO - Current time: 2024-12-04 00:09:19
+2024-12-04 00:09:20,237 - INFO - Current time: 2024-12-04 00:09:20
+2024-12-04 00:09:20,757 - INFO - Current time: 2024-12-04 00:09:20
+2024-12-04 00:09:20,913 - INFO - Current time: 2024-12-04 00:09:20
+2024-12-04 00:09:21,956 - INFO - Current time: 2024-12-04 00:09:21
+2024-12-04 00:09:23,415 - INFO - Current time: 2024-12-04 00:09:23
+2024-12-04 00:09:24,737 - INFO - Current time: 2024-12-04 00:09:24
+2024-12-04 00:09:25,468 - INFO - Current time: 2024-12-04 00:09:25
+2024-12-04 00:09:26,556 - INFO - Current time: 2024-12-04 00:09:26
+2024-12-04 00:09:27,365 - INFO - Current time: 2024-12-04 00:09:27
+2024-12-04 00:09:27,815 - INFO - Current time: 2024-12-04 00:09:27
+2024-12-04 00:09:28,314 - INFO - Current time: 2024-12-04 00:09:28
+2024-12-04 00:09:28,470 - INFO - Current time: 2024-12-04 00:09:28
+2024-12-04 00:09:29,221 - INFO - Current time: 2024-12-04 00:09:29
+2024-12-04 00:09:29,941 - INFO - Current time: 2024-12-04 00:09:29
+2024-12-04 00:09:30,221 - INFO - Current time: 2024-12-04 00:09:30
+2024-12-04 00:09:30,754 - INFO - Current time: 2024-12-04 00:09:30
+2024-12-04 00:09:32,469 - INFO - Current time: 2024-12-04 00:09:32
+2024-12-04 00:09:33,993 - INFO - Current time: 2024-12-04 00:09:33
+2024-12-04 00:09:34,493 - INFO - Current time: 2024-12-04 00:09:34
+2024-12-04 00:09:35,291 - INFO - Current time: 2024-12-04 00:09:35
+2024-12-04 00:09:35,931 - INFO - Current time: 2024-12-04 00:09:35
+2024-12-04 00:09:36,826 - INFO - Current time: 2024-12-04 00:09:36
+2024-12-04 00:09:37,066 - INFO - Current time: 2024-12-04 00:09:37
+2024-12-04 00:09:37,893 - INFO - Current time: 2024-12-04 00:09:37
+2024-12-04 00:09:38,415 - INFO - Current time: 2024-12-04 00:09:38
+2024-12-04 00:09:38,933 - INFO - Current time: 2024-12-04 00:09:38
+2024-12-04 00:09:39,643 - INFO - Current time: 2024-12-04 00:09:39
+2024-12-04 00:09:39,883 - INFO - Current time: 2024-12-04 00:09:39
+2024-12-04 00:09:41,416 - INFO - Current time: 2024-12-04 00:09:41
+2024-12-04 00:09:42,327 - INFO - Current time: 2024-12-04 00:09:42
+2024-12-04 00:09:43,658 - INFO - Current time: 2024-12-04 00:09:43
+2024-12-04 00:09:44,175 - INFO - Current time: 2024-12-04 00:09:44
+2024-12-04 00:09:45,202 - INFO - Current time: 2024-12-04 00:09:45
+2024-12-04 00:09:45,533 - INFO - Current time: 2024-12-04 00:09:45
+2024-12-04 00:09:46,019 - INFO - Current time: 2024-12-04 00:09:46
+2024-12-04 00:09:47,031 - INFO - Current time: 2024-12-04 00:09:47
+2024-12-04 00:09:47,277 - INFO - Current time: 2024-12-04 00:09:47
+2024-12-04 00:09:47,607 - INFO - Current time: 2024-12-04 00:09:47
+2024-12-04 00:09:48,122 - INFO - Current time: 2024-12-04 00:09:48
+2024-12-04 00:09:49,060 - INFO - Current time: 2024-12-04 00:09:49
+2024-12-04 00:09:50,418 - INFO - Current time: 2024-12-04 00:09:50
+2024-12-04 00:09:51,708 - INFO - Current time: 2024-12-04 00:09:51
+2024-12-04 00:09:52,195 - INFO - Current time: 2024-12-04 00:09:52
+2024-12-04 00:09:52,754 - INFO - Current time: 2024-12-04 00:09:52
+2024-12-04 00:09:54,818 - INFO - Current time: 2024-12-04 00:09:54
+2024-12-04 00:09:55,255 - INFO - Current time: 2024-12-04 00:09:55
+2024-12-04 00:09:55,501 - INFO - Current time: 2024-12-04 00:09:55
+2024-12-04 00:09:56,055 - INFO - Current time: 2024-12-04 00:09:56
+2024-12-04 00:09:56,386 - INFO - Current time: 2024-12-04 00:09:56
+2024-12-04 00:09:56,968 - INFO - Current time: 2024-12-04 00:09:56
+2024-12-04 00:09:58,042 - INFO - Current time: 2024-12-04 00:09:58
+2024-12-04 00:09:59,102 - INFO - Current time: 2024-12-04 00:09:59
+2024-12-04 00:10:00,780 - INFO - Current time: 2024-12-04 00:10:00
+2024-12-04 00:10:01,570 - INFO - Current time: 2024-12-04 00:10:01
+2024-12-04 00:10:02,246 - INFO - Current time: 2024-12-04 00:10:02
+2024-12-04 00:10:02,572 - INFO - Current time: 2024-12-04 00:10:02
+2024-12-04 00:10:03,824 - INFO - Current time: 2024-12-04 00:10:03
+2024-12-04 00:10:04,144 - INFO - Current time: 2024-12-04 00:10:04
+2024-12-04 00:10:04,707 - INFO - Current time: 2024-12-04 00:10:04
+2024-12-04 00:10:05,248 - INFO - Current time: 2024-12-04 00:10:05
+2024-12-04 00:10:06,232 - INFO - Current time: 2024-12-04 00:10:06
+2024-12-04 00:10:06,553 - INFO - Current time: 2024-12-04 00:10:06
+2024-12-04 00:10:08,486 - INFO - Current time: 2024-12-04 00:10:08
+2024-12-04 00:10:09,935 - INFO - Current time: 2024-12-04 00:10:09
+2024-12-04 00:10:10,366 - INFO - Current time: 2024-12-04 00:10:10
+2024-12-04 00:10:11,173 - INFO - Current time: 2024-12-04 00:10:11
+2024-12-04 00:10:11,570 - INFO - Current time: 2024-12-04 00:10:11
+2024-12-04 00:10:11,774 - INFO - Current time: 2024-12-04 00:10:11
+2024-12-04 00:10:12,614 - INFO - Current time: 2024-12-04 00:10:12
+2024-12-04 00:10:13,623 - INFO - Current time: 2024-12-04 00:10:13
+2024-12-04 00:10:14,505 - INFO - Current time: 2024-12-04 00:10:14
+2024-12-04 00:10:15,090 - INFO - Current time: 2024-12-04 00:10:15
+2024-12-04 00:10:15,641 - INFO - Current time: 2024-12-04 00:10:15
+2024-12-04 00:10:17,632 - INFO - Current time: 2024-12-04 00:10:17
+2024-12-04 00:10:18,479 - INFO - Current time: 2024-12-04 00:10:18
+2024-12-04 00:10:19,096 - INFO - Current time: 2024-12-04 00:10:19
+2024-12-04 00:10:19,560 - INFO - Current time: 2024-12-04 00:10:19
+2024-12-04 00:10:20,070 - INFO - Current time: 2024-12-04 00:10:20
+2024-12-04 00:10:20,496 - INFO - Current time: 2024-12-04 00:10:20
+2024-12-04 00:10:20,873 - INFO - Current time: 2024-12-04 00:10:20
+2024-12-04 00:10:22,441 - INFO - Current time: 2024-12-04 00:10:22
+2024-12-04 00:10:23,543 - INFO - Current time: 2024-12-04 00:10:23
+2024-12-04 00:10:24,555 - INFO - Current time: 2024-12-04 00:10:24
+2024-12-04 00:10:24,877 - INFO - Current time: 2024-12-04 00:10:24
+2024-12-04 00:10:26,887 - INFO - Current time: 2024-12-04 00:10:26
+2024-12-04 00:10:27,234 - INFO - Current time: 2024-12-04 00:10:27
+2024-12-04 00:10:27,708 - INFO - Current time: 2024-12-04 00:10:27
+2024-12-04 00:10:28,001 - INFO - Current time: 2024-12-04 00:10:28
+2024-12-04 00:10:28,367 - INFO - Current time: 2024-12-04 00:10:28
+2024-12-04 00:10:29,580 - INFO - Current time: 2024-12-04 00:10:29
+2024-12-04 00:10:30,320 - INFO - Current time: 2024-12-04 00:10:30
+2024-12-04 00:10:30,738 - INFO - Current time: 2024-12-04 00:10:30
+2024-12-04 00:10:33,125 - INFO - Current time: 2024-12-04 00:10:33
+2024-12-04 00:10:33,897 - INFO - Current time: 2024-12-04 00:10:33
+2024-12-04 00:10:34,476 - INFO - Current time: 2024-12-04 00:10:34
+2024-12-04 00:10:35,194 - INFO - Current time: 2024-12-04 00:10:35
+2024-12-04 00:10:36,062 - INFO - Current time: 2024-12-04 00:10:36
+2024-12-04 00:10:36,569 - INFO - Current time: 2024-12-04 00:10:36
+2024-12-04 00:10:37,757 - INFO - Current time: 2024-12-04 00:10:37
+2024-12-04 00:10:38,056 - INFO - Current time: 2024-12-04 00:10:38
+2024-12-04 00:10:38,835 - INFO - Current time: 2024-12-04 00:10:38
+2024-12-04 00:10:39,425 - INFO - Current time: 2024-12-04 00:10:39
+2024-12-04 00:10:39,691 - INFO - Current time: 2024-12-04 00:10:39
+2024-12-04 00:10:40,553 - INFO - Current time: 2024-12-04 00:10:40
+2024-12-04 00:10:42,372 - INFO - Current time: 2024-12-04 00:10:42
+2024-12-04 00:10:43,026 - INFO - Current time: 2024-12-04 00:10:43
+2024-12-04 00:10:43,930 - INFO - Current time: 2024-12-04 00:10:43
+2024-12-04 00:10:45,116 - INFO - Current time: 2024-12-04 00:10:45
+2024-12-04 00:10:46,123 - INFO - Current time: 2024-12-04 00:10:46
+2024-12-04 00:10:46,995 - INFO - Current time: 2024-12-04 00:10:46
+2024-12-04 00:10:47,696 - INFO - Current time: 2024-12-04 00:10:47
+2024-12-04 00:10:47,982 - INFO - Current time: 2024-12-04 00:10:47
+2024-12-04 00:10:48,259 - INFO - Current time: 2024-12-04 00:10:48
+2024-12-04 00:10:49,023 - INFO - Current time: 2024-12-04 00:10:49
+2024-12-04 00:10:49,341 - INFO - Current time: 2024-12-04 00:10:49
+2024-12-04 00:10:49,558 - INFO - Current time: 2024-12-04 00:10:49
+2024-12-04 00:10:51,505 - INFO - Current time: 2024-12-04 00:10:51
+2024-12-04 00:10:52,996 - INFO - Current time: 2024-12-04 00:10:52
+2024-12-04 00:10:53,892 - INFO - Current time: 2024-12-04 00:10:53
+2024-12-04 00:10:55,258 - INFO - Current time: 2024-12-04 00:10:55
+2024-12-04 00:10:55,625 - INFO - Current time: 2024-12-04 00:10:55
+2024-12-04 00:10:56,556 - INFO - Current time: 2024-12-04 00:10:56
+2024-12-04 00:10:56,880 - INFO - Current time: 2024-12-04 00:10:56
+2024-12-04 00:10:57,359 - INFO - Current time: 2024-12-04 00:10:57
+2024-12-04 00:10:57,823 - INFO - Current time: 2024-12-04 00:10:57
+2024-12-04 00:10:58,158 - INFO - Current time: 2024-12-04 00:10:58
+2024-12-04 00:10:58,560 - INFO - Current time: 2024-12-04 00:10:58
+2024-12-04 00:10:59,237 - INFO - Current time: 2024-12-04 00:10:59
+2024-12-04 00:11:01,399 - INFO - Current time: 2024-12-04 00:11:01
+2024-12-04 00:11:01,854 - INFO - Current time: 2024-12-04 00:11:01
+2024-12-04 00:11:03,567 - INFO - Current time: 2024-12-04 00:11:03
+2024-12-04 00:11:04,244 - INFO - Current time: 2024-12-04 00:11:04
+2024-12-04 00:11:05,079 - INFO - Current time: 2024-12-04 00:11:05
+2024-12-04 00:11:05,434 - INFO - Current time: 2024-12-04 00:11:05
+2024-12-04 00:11:06,067 - INFO - Current time: 2024-12-04 00:11:06
+2024-12-04 00:11:06,380 - INFO - Current time: 2024-12-04 00:11:06
+2024-12-04 00:11:06,848 - INFO - Current time: 2024-12-04 00:11:06
+2024-12-04 00:11:07,191 - INFO - Current time: 2024-12-04 00:11:07
+2024-12-04 00:11:07,734 - INFO - Current time: 2024-12-04 00:11:07
+2024-12-04 00:11:09,584 - INFO - Current time: 2024-12-04 00:11:09
+2024-12-04 00:11:10,491 - INFO - Current time: 2024-12-04 00:11:10
+2024-12-04 00:11:10,820 - INFO - Current time: 2024-12-04 00:11:10
+2024-12-04 00:11:12,551 - INFO - Current time: 2024-12-04 00:11:12
+2024-12-04 00:11:13,905 - INFO - Current time: 2024-12-04 00:11:13
+2024-12-04 00:11:14,147 - INFO - Current time: 2024-12-04 00:11:14
+2024-12-04 00:11:14,659 - INFO - Current time: 2024-12-04 00:11:14
+2024-12-04 00:11:15,017 - INFO - Current time: 2024-12-04 00:11:15
+2024-12-04 00:11:15,579 - INFO - Current time: 2024-12-04 00:11:15
+2024-12-04 00:11:16,113 - INFO - Current time: 2024-12-04 00:11:16
+2024-12-04 00:11:16,880 - INFO - Current time: 2024-12-04 00:11:16
+2024-12-04 00:11:18,208 - INFO - Current time: 2024-12-04 00:11:18
+2024-12-04 00:11:18,761 - INFO - Current time: 2024-12-04 00:11:18
+2024-12-04 00:11:19,484 - INFO - Current time: 2024-12-04 00:11:19
+2024-12-04 00:11:20,629 - INFO - Current time: 2024-12-04 00:11:20
+2024-12-04 00:11:21,331 - INFO - Current time: 2024-12-04 00:11:21
+2024-12-04 00:11:22,796 - INFO - Current time: 2024-12-04 00:11:22
+2024-12-04 00:11:23,142 - INFO - Current time: 2024-12-04 00:11:23
+2024-12-04 00:11:23,768 - INFO - Current time: 2024-12-04 00:11:23
+2024-12-04 00:11:24,343 - INFO - Current time: 2024-12-04 00:11:24
+2024-12-04 00:11:24,671 - INFO - Current time: 2024-12-04 00:11:24
+2024-12-04 00:11:25,768 - INFO - Current time: 2024-12-04 00:11:25
+2024-12-04 00:11:26,944 - INFO - Current time: 2024-12-04 00:11:26
+2024-12-04 00:11:27,587 - INFO - Current time: 2024-12-04 00:11:27
+2024-12-04 00:11:28,070 - INFO - Current time: 2024-12-04 00:11:28
+2024-12-04 00:11:28,547 - INFO - Current time: 2024-12-04 00:11:28
+2024-12-04 00:11:29,906 - INFO - Current time: 2024-12-04 00:11:29
+2024-12-04 00:11:30,869 - INFO - Current time: 2024-12-04 00:11:30
+2024-12-04 00:11:31,763 - INFO - Current time: 2024-12-04 00:11:31
+2024-12-04 00:11:32,600 - INFO - Current time: 2024-12-04 00:11:32
+2024-12-04 00:11:33,161 - INFO - Current time: 2024-12-04 00:11:33
+2024-12-04 00:11:34,149 - INFO - Current time: 2024-12-04 00:11:34
+2024-12-04 00:11:34,490 - INFO - Current time: 2024-12-04 00:11:34
+2024-12-04 00:11:35,297 - INFO - Current time: 2024-12-04 00:11:35
+2024-12-04 00:11:36,238 - INFO - Current time: 2024-12-04 00:11:36
+2024-12-04 00:11:36,723 - INFO - Current time: 2024-12-04 00:11:36
+2024-12-04 00:11:37,052 - INFO - Current time: 2024-12-04 00:11:37
+2024-12-04 00:11:37,505 - INFO - Current time: 2024-12-04 00:11:37
+2024-12-04 00:11:38,953 - INFO - Current time: 2024-12-04 00:11:38
+2024-12-04 00:11:40,410 - INFO - Current time: 2024-12-04 00:11:40
+2024-12-04 00:11:40,991 - INFO - Current time: 2024-12-04 00:11:40
+2024-12-04 00:11:41,186 - INFO - Current time: 2024-12-04 00:11:41
+2024-12-04 00:11:42,276 - INFO - Current time: 2024-12-04 00:11:42
+2024-12-04 00:11:43,174 - INFO - Current time: 2024-12-04 00:11:43
+2024-12-04 00:11:44,172 - INFO - Current time: 2024-12-04 00:11:44
+2024-12-04 00:11:44,508 - INFO - Current time: 2024-12-04 00:11:44
+2024-12-04 00:11:45,302 - INFO - Current time: 2024-12-04 00:11:45
+2024-12-04 00:11:45,848 - INFO - Current time: 2024-12-04 00:11:45
+2024-12-04 00:11:47,229 - INFO - Current time: 2024-12-04 00:11:47
+2024-12-04 00:11:47,483 - INFO - Current time: 2024-12-04 00:11:47
+2024-12-04 00:11:48,211 - INFO - Current time: 2024-12-04 00:11:48
+2024-12-04 00:11:49,016 - INFO - Current time: 2024-12-04 00:11:49
+2024-12-04 00:11:50,217 - INFO - Current time: 2024-12-04 00:11:50
+2024-12-04 00:11:50,815 - INFO - Current time: 2024-12-04 00:11:50
+2024-12-04 00:11:51,771 - INFO - Current time: 2024-12-04 00:11:51
+2024-12-04 00:11:54,971 - INFO - Current time: 2024-12-04 00:11:54
+2024-12-04 00:11:55,683 - WARNING - No faces in frame 194 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id4_id0_0006.mp4
+2024-12-04 00:11:56,216 - INFO - Current time: 2024-12-04 00:11:56
+2024-12-04 00:11:56,562 - INFO - Current time: 2024-12-04 00:11:56
+2024-12-04 00:11:57,288 - INFO - Current time: 2024-12-04 00:11:57
+2024-12-04 00:11:58,306 - INFO - Current time: 2024-12-04 00:11:58
+2024-12-04 00:11:59,776 - INFO - Current time: 2024-12-04 00:11:59
+2024-12-04 00:11:59,972 - INFO - Current time: 2024-12-04 00:11:59
+2024-12-04 00:12:00,261 - INFO - Current time: 2024-12-04 00:12:00
+2024-12-04 00:12:01,769 - INFO - Current time: 2024-12-04 00:12:01
+2024-12-04 00:12:02,095 - INFO - Current time: 2024-12-04 00:12:02
+2024-12-04 00:12:03,323 - INFO - Current time: 2024-12-04 00:12:03
+2024-12-04 00:12:04,029 - INFO - Current time: 2024-12-04 00:12:04
+2024-12-04 00:12:07,476 - INFO - Current time: 2024-12-04 00:12:07
+2024-12-04 00:12:08,686 - INFO - Current time: 2024-12-04 00:12:08
+2024-12-04 00:12:08,884 - INFO - Current time: 2024-12-04 00:12:08
+2024-12-04 00:12:09,307 - INFO - Current time: 2024-12-04 00:12:09
+2024-12-04 00:12:10,526 - INFO - Current time: 2024-12-04 00:12:10
+2024-12-04 00:12:10,806 - INFO - Current time: 2024-12-04 00:12:10
+2024-12-04 00:12:12,058 - INFO - Current time: 2024-12-04 00:12:12
+2024-12-04 00:12:12,247 - INFO - Current time: 2024-12-04 00:12:12
+2024-12-04 00:12:13,719 - INFO - Current time: 2024-12-04 00:12:13
+2024-12-04 00:12:14,642 - INFO - Current time: 2024-12-04 00:12:14
+2024-12-04 00:12:15,581 - INFO - Current time: 2024-12-04 00:12:15
+2024-12-04 00:12:16,197 - INFO - Current time: 2024-12-04 00:12:16
+2024-12-04 00:12:17,836 - WARNING - No faces in frame 258 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id4_id2_0007.mp4
+2024-12-04 00:12:20,137 - INFO - Current time: 2024-12-04 00:12:20
+2024-12-04 00:12:20,470 - INFO - Current time: 2024-12-04 00:12:20
+2024-12-04 00:12:20,837 - INFO - Current time: 2024-12-04 00:12:20
+2024-12-04 00:12:21,127 - INFO - Current time: 2024-12-04 00:12:21
+2024-12-04 00:12:22,443 - INFO - Current time: 2024-12-04 00:12:22
+2024-12-04 00:12:22,897 - INFO - Current time: 2024-12-04 00:12:22
+2024-12-04 00:12:24,208 - INFO - Current time: 2024-12-04 00:12:24
+2024-12-04 00:12:24,694 - INFO - Current time: 2024-12-04 00:12:24
+2024-12-04 00:12:25,745 - INFO - Current time: 2024-12-04 00:12:25
+2024-12-04 00:12:26,902 - INFO - Current time: 2024-12-04 00:12:26
+2024-12-04 00:12:27,497 - INFO - Current time: 2024-12-04 00:12:27
+2024-12-04 00:12:28,698 - INFO - Current time: 2024-12-04 00:12:28
+2024-12-04 00:12:28,836 - WARNING - No faces in frame 194 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id4_id3_0006.mp4
+2024-12-04 00:12:32,243 - INFO - Current time: 2024-12-04 00:12:32
+2024-12-04 00:12:32,503 - INFO - Current time: 2024-12-04 00:12:32
+2024-12-04 00:12:32,794 - INFO - Current time: 2024-12-04 00:12:32
+2024-12-04 00:12:33,214 - INFO - Current time: 2024-12-04 00:12:33
+2024-12-04 00:12:34,663 - INFO - Current time: 2024-12-04 00:12:34
+2024-12-04 00:12:35,308 - INFO - Current time: 2024-12-04 00:12:35
+2024-12-04 00:12:35,992 - WARNING - No faces in frame 194 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id4_id6_0006.mp4
+2024-12-04 00:12:36,223 - INFO - Current time: 2024-12-04 00:12:36
+2024-12-04 00:12:36,798 - INFO - Current time: 2024-12-04 00:12:36
+2024-12-04 00:12:37,730 - INFO - Current time: 2024-12-04 00:12:37
+2024-12-04 00:12:38,938 - INFO - Current time: 2024-12-04 00:12:38
+2024-12-04 00:12:39,525 - INFO - Current time: 2024-12-04 00:12:39
+2024-12-04 00:12:40,195 - INFO - Current time: 2024-12-04 00:12:40
+2024-12-04 00:12:43,824 - INFO - Current time: 2024-12-04 00:12:43
+2024-12-04 00:12:44,409 - INFO - Current time: 2024-12-04 00:12:44
+2024-12-04 00:12:44,782 - INFO - Current time: 2024-12-04 00:12:44
+2024-12-04 00:12:45,434 - INFO - Current time: 2024-12-04 00:12:45
+2024-12-04 00:12:46,090 - WARNING - No faces in frame 194 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id4_id9_0006.mp4
+2024-12-04 00:12:46,877 - INFO - Current time: 2024-12-04 00:12:46
+2024-12-04 00:12:47,488 - INFO - Current time: 2024-12-04 00:12:47
+2024-12-04 00:12:48,307 - INFO - Current time: 2024-12-04 00:12:48
+2024-12-04 00:12:48,392 - WARNING - No faces in frame 252 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id4_id9_0006.mp4
+2024-12-04 00:12:48,871 - INFO - Current time: 2024-12-04 00:12:48
+2024-12-04 00:12:49,749 - INFO - Current time: 2024-12-04 00:12:49
+2024-12-04 00:12:50,455 - INFO - Current time: 2024-12-04 00:12:50
+2024-12-04 00:12:51,439 - INFO - Current time: 2024-12-04 00:12:51
+2024-12-04 00:12:51,679 - INFO - Current time: 2024-12-04 00:12:51
+2024-12-04 00:12:56,197 - INFO - Current time: 2024-12-04 00:12:56
+2024-12-04 00:12:56,772 - INFO - Current time: 2024-12-04 00:12:56
+2024-12-04 00:12:57,374 - INFO - Current time: 2024-12-04 00:12:57
+2024-12-04 00:12:57,674 - INFO - Current time: 2024-12-04 00:12:57
+2024-12-04 00:12:59,088 - INFO - Current time: 2024-12-04 00:12:59
+2024-12-04 00:12:59,401 - INFO - Current time: 2024-12-04 00:12:59
+2024-12-04 00:12:59,982 - INFO - Current time: 2024-12-04 00:12:59
+2024-12-04 00:13:01,168 - INFO - Current time: 2024-12-04 00:13:01
+2024-12-04 00:13:01,537 - INFO - Current time: 2024-12-04 00:13:01
+2024-12-04 00:13:02,954 - INFO - Current time: 2024-12-04 00:13:02
+2024-12-04 00:13:03,505 - INFO - Current time: 2024-12-04 00:13:03
+2024-12-04 00:13:04,079 - INFO - Current time: 2024-12-04 00:13:04
+2024-12-04 00:13:08,874 - INFO - Current time: 2024-12-04 00:13:08
+2024-12-04 00:13:09,537 - INFO - Current time: 2024-12-04 00:13:09
+2024-12-04 00:13:10,085 - INFO - Current time: 2024-12-04 00:13:10
+2024-12-04 00:13:10,738 - INFO - Current time: 2024-12-04 00:13:10
+2024-12-04 00:13:11,436 - INFO - Current time: 2024-12-04 00:13:11
+2024-12-04 00:13:12,014 - INFO - Current time: 2024-12-04 00:13:12
+2024-12-04 00:13:12,597 - INFO - Current time: 2024-12-04 00:13:12
+2024-12-04 00:13:13,799 - INFO - Current time: 2024-12-04 00:13:13
+2024-12-04 00:13:14,388 - INFO - Current time: 2024-12-04 00:13:14
+2024-12-04 00:13:15,266 - INFO - Current time: 2024-12-04 00:13:15
+2024-12-04 00:13:16,736 - INFO - Current time: 2024-12-04 00:13:16
+2024-12-04 00:13:17,006 - INFO - Current time: 2024-12-04 00:13:17
+2024-12-04 00:13:20,634 - INFO - Current time: 2024-12-04 00:13:20
+2024-12-04 00:13:20,917 - INFO - Current time: 2024-12-04 00:13:20
+2024-12-04 00:13:21,832 - INFO - Current time: 2024-12-04 00:13:21
+2024-12-04 00:13:23,309 - INFO - Current time: 2024-12-04 00:13:23
+2024-12-04 00:13:23,589 - INFO - Current time: 2024-12-04 00:13:23
+2024-12-04 00:13:24,823 - INFO - Current time: 2024-12-04 00:13:24
+2024-12-04 00:13:25,740 - INFO - Current time: 2024-12-04 00:13:25
+2024-12-04 00:13:26,277 - INFO - Current time: 2024-12-04 00:13:26
+2024-12-04 00:13:26,833 - INFO - Current time: 2024-12-04 00:13:26
+2024-12-04 00:13:27,412 - INFO - Current time: 2024-12-04 00:13:27
+2024-12-04 00:13:28,892 - INFO - Current time: 2024-12-04 00:13:28
+2024-12-04 00:13:29,472 - INFO - Current time: 2024-12-04 00:13:29
+2024-12-04 00:13:32,394 - INFO - Current time: 2024-12-04 00:13:32
+2024-12-04 00:13:33,694 - INFO - Current time: 2024-12-04 00:13:33
+2024-12-04 00:13:33,899 - INFO - Current time: 2024-12-04 00:13:33
+2024-12-04 00:13:36,023 - INFO - Current time: 2024-12-04 00:13:36
+2024-12-04 00:13:36,381 - INFO - Current time: 2024-12-04 00:13:36
+2024-12-04 00:13:36,991 - INFO - Current time: 2024-12-04 00:13:36
+2024-12-04 00:13:38,237 - INFO - Current time: 2024-12-04 00:13:38
+2024-12-04 00:13:38,877 - INFO - Current time: 2024-12-04 00:13:38
+2024-12-04 00:13:39,150 - INFO - Current time: 2024-12-04 00:13:39
+2024-12-04 00:13:39,623 - INFO - Current time: 2024-12-04 00:13:39
+2024-12-04 00:13:40,778 - INFO - Current time: 2024-12-04 00:13:40
+2024-12-04 00:13:42,106 - INFO - Current time: 2024-12-04 00:13:42
+2024-12-04 00:13:43,877 - INFO - Current time: 2024-12-04 00:13:43
+2024-12-04 00:13:46,317 - INFO - Current time: 2024-12-04 00:13:46
+2024-12-04 00:13:46,559 - INFO - Current time: 2024-12-04 00:13:46
+2024-12-04 00:13:48,146 - INFO - Current time: 2024-12-04 00:13:48
+2024-12-04 00:13:48,675 - INFO - Current time: 2024-12-04 00:13:48
+2024-12-04 00:13:49,269 - INFO - Current time: 2024-12-04 00:13:49
+2024-12-04 00:13:50,488 - INFO - Current time: 2024-12-04 00:13:50
+2024-12-04 00:13:50,981 - INFO - Current time: 2024-12-04 00:13:50
+2024-12-04 00:13:50,982 - INFO - Current time: 2024-12-04 00:13:50
+2024-12-04 00:13:51,866 - INFO - Current time: 2024-12-04 00:13:51
+2024-12-04 00:13:52,719 - INFO - Current time: 2024-12-04 00:13:52
+2024-12-04 00:13:54,527 - INFO - Current time: 2024-12-04 00:13:54
+2024-12-04 00:13:55,732 - INFO - Current time: 2024-12-04 00:13:55
+2024-12-04 00:13:58,249 - INFO - Current time: 2024-12-04 00:13:58
+2024-12-04 00:13:58,572 - INFO - Current time: 2024-12-04 00:13:58
+2024-12-04 00:13:59,708 - INFO - Current time: 2024-12-04 00:13:59
+2024-12-04 00:14:01,155 - INFO - Current time: 2024-12-04 00:14:01
+2024-12-04 00:14:01,579 - INFO - Current time: 2024-12-04 00:14:01
+2024-12-04 00:14:02,698 - INFO - Current time: 2024-12-04 00:14:02
+2024-12-04 00:14:03,030 - INFO - Current time: 2024-12-04 00:14:03
+2024-12-04 00:14:03,687 - INFO - Current time: 2024-12-04 00:14:03
+2024-12-04 00:14:04,225 - INFO - Current time: 2024-12-04 00:14:04
+2024-12-04 00:14:04,848 - INFO - Current time: 2024-12-04 00:14:04
+2024-12-04 00:14:06,392 - INFO - Current time: 2024-12-04 00:14:06
+2024-12-04 00:14:07,288 - INFO - Current time: 2024-12-04 00:14:07
+2024-12-04 00:14:10,187 - INFO - Current time: 2024-12-04 00:14:10
+2024-12-04 00:14:11,146 - INFO - Current time: 2024-12-04 00:14:11
+2024-12-04 00:14:11,774 - INFO - Current time: 2024-12-04 00:14:11
+2024-12-04 00:14:12,438 - WARNING - No faces in frame 221 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id7_id10_0009.mp4
+2024-12-04 00:14:12,712 - INFO - Current time: 2024-12-04 00:14:12
+2024-12-04 00:14:13,727 - INFO - Current time: 2024-12-04 00:14:13
+2024-12-04 00:14:14,080 - INFO - Current time: 2024-12-04 00:14:14
+2024-12-04 00:14:14,519 - INFO - Current time: 2024-12-04 00:14:14
+2024-12-04 00:14:15,631 - INFO - Current time: 2024-12-04 00:14:15
+2024-12-04 00:14:16,860 - INFO - Current time: 2024-12-04 00:14:16
+2024-12-04 00:14:16,865 - INFO - Current time: 2024-12-04 00:14:16
+2024-12-04 00:14:18,575 - INFO - Current time: 2024-12-04 00:14:18
+2024-12-04 00:14:18,862 - INFO - Current time: 2024-12-04 00:14:18
+2024-12-04 00:14:22,111 - INFO - Current time: 2024-12-04 00:14:22
+2024-12-04 00:14:22,723 - INFO - Current time: 2024-12-04 00:14:22
+2024-12-04 00:14:23,816 - INFO - Current time: 2024-12-04 00:14:23
+2024-12-04 00:14:24,434 - INFO - Current time: 2024-12-04 00:14:24
+2024-12-04 00:14:25,265 - INFO - Current time: 2024-12-04 00:14:25
+2024-12-04 00:14:26,116 - INFO - Current time: 2024-12-04 00:14:26
+2024-12-04 00:14:27,065 - INFO - Current time: 2024-12-04 00:14:27
+2024-12-04 00:14:27,830 - INFO - Current time: 2024-12-04 00:14:27
+2024-12-04 00:14:28,395 - INFO - Current time: 2024-12-04 00:14:28
+2024-12-04 00:14:29,598 - INFO - Current time: 2024-12-04 00:14:29
+2024-12-04 00:14:30,511 - INFO - Current time: 2024-12-04 00:14:30
+2024-12-04 00:14:31,103 - INFO - Current time: 2024-12-04 00:14:31
+2024-12-04 00:14:33,917 - INFO - Current time: 2024-12-04 00:14:33
+2024-12-04 00:14:34,548 - INFO - Current time: 2024-12-04 00:14:34
+2024-12-04 00:14:35,186 - INFO - Current time: 2024-12-04 00:14:35
+2024-12-04 00:14:36,134 - INFO - Current time: 2024-12-04 00:14:36
+2024-12-04 00:14:37,322 - INFO - Current time: 2024-12-04 00:14:37
+2024-12-04 00:14:37,853 - INFO - Current time: 2024-12-04 00:14:37
+2024-12-04 00:14:38,479 - INFO - Current time: 2024-12-04 00:14:38
+2024-12-04 00:14:40,441 - INFO - Current time: 2024-12-04 00:14:40
+2024-12-04 00:14:40,975 - INFO - Current time: 2024-12-04 00:14:40
+2024-12-04 00:14:42,168 - INFO - Current time: 2024-12-04 00:14:42
+2024-12-04 00:14:42,371 - INFO - Current time: 2024-12-04 00:14:42
+2024-12-04 00:14:42,946 - INFO - Current time: 2024-12-04 00:14:42
+2024-12-04 00:14:43,940 - WARNING - No faces in frame 38 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id8_id3_0003.mp4
+2024-12-04 00:14:46,583 - INFO - Current time: 2024-12-04 00:14:46
+2024-12-04 00:14:46,939 - INFO - Current time: 2024-12-04 00:14:46
+2024-12-04 00:14:47,506 - INFO - Current time: 2024-12-04 00:14:47
+2024-12-04 00:14:47,832 - INFO - Current time: 2024-12-04 00:14:47
+2024-12-04 00:14:49,931 - INFO - Current time: 2024-12-04 00:14:49
+2024-12-04 00:14:50,277 - INFO - Current time: 2024-12-04 00:14:50
+2024-12-04 00:14:50,476 - INFO - Current time: 2024-12-04 00:14:50
+2024-12-04 00:14:52,877 - INFO - Current time: 2024-12-04 00:14:52
+2024-12-04 00:14:53,457 - INFO - Current time: 2024-12-04 00:14:53
+2024-12-04 00:14:54,102 - INFO - Current time: 2024-12-04 00:14:54
+2024-12-04 00:14:54,527 - INFO - Current time: 2024-12-04 00:14:54
+2024-12-04 00:14:54,824 - WARNING - No faces in frame 38 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id8_id6_0003.mp4
+2024-12-04 00:14:55,043 - INFO - Current time: 2024-12-04 00:14:55
+2024-12-04 00:14:56,416 - WARNING - No faces in frame 38 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id8_id7_0003.mp4
+2024-12-04 00:14:58,477 - INFO - Current time: 2024-12-04 00:14:58
+2024-12-04 00:14:59,121 - INFO - Current time: 2024-12-04 00:14:59
+2024-12-04 00:14:59,696 - INFO - Current time: 2024-12-04 00:14:59
+2024-12-04 00:14:59,988 - INFO - Current time: 2024-12-04 00:14:59
+2024-12-04 00:15:01,272 - WARNING - No faces in frame 38 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-synthesis/id8_id9_0003.mp4
+2024-12-04 00:15:01,810 - INFO - Current time: 2024-12-04 00:15:01
+2024-12-04 00:15:02,094 - INFO - Current time: 2024-12-04 00:15:02
+2024-12-04 00:15:02,709 - INFO - Current time: 2024-12-04 00:15:02
+2024-12-04 00:15:04,572 - INFO - Current time: 2024-12-04 00:15:04
+2024-12-04 00:15:05,599 - INFO - Current time: 2024-12-04 00:15:05
+2024-12-04 00:15:06,594 - INFO - Current time: 2024-12-04 00:15:06
+2024-12-04 00:15:07,171 - INFO - Current time: 2024-12-04 00:15:07
+2024-12-04 00:15:07,737 - INFO - Current time: 2024-12-04 00:15:07
+2024-12-04 00:15:10,481 - INFO - Current time: 2024-12-04 00:15:10
+2024-12-04 00:15:11,672 - INFO - Current time: 2024-12-04 00:15:11
+2024-12-04 00:15:12,048 - INFO - Current time: 2024-12-04 00:15:12
+2024-12-04 00:15:12,590 - INFO - Current time: 2024-12-04 00:15:12
+2024-12-04 00:15:14,040 - INFO - Current time: 2024-12-04 00:15:14
+2024-12-04 00:15:14,400 - INFO - Current time: 2024-12-04 00:15:14
+2024-12-04 00:15:14,938 - INFO - Current time: 2024-12-04 00:15:14
+2024-12-04 00:15:16,720 - INFO - Current time: 2024-12-04 00:15:16
+2024-12-04 00:15:18,291 - INFO - Current time: 2024-12-04 00:15:18
+2024-12-04 00:15:18,621 - INFO - Current time: 2024-12-04 00:15:18
+2024-12-04 00:15:19,192 - INFO - Current time: 2024-12-04 00:15:19
+2024-12-04 00:15:19,467 - INFO - Current time: 2024-12-04 00:15:19
+2024-12-04 00:15:22,825 - INFO - Current time: 2024-12-04 00:15:22
+2024-12-04 00:15:23,513 - INFO - Current time: 2024-12-04 00:15:23
+2024-12-04 00:15:24,277 - INFO - Current time: 2024-12-04 00:15:24
+2024-12-04 00:15:24,837 - INFO - Current time: 2024-12-04 00:15:24
+2024-12-04 00:15:26,406 - INFO - Current time: 2024-12-04 00:15:26
+2024-12-04 00:15:26,595 - INFO - Current time: 2024-12-04 00:15:26
+2024-12-04 00:15:27,428 - INFO - Current time: 2024-12-04 00:15:27
+2024-12-04 00:15:28,702 - INFO - Current time: 2024-12-04 00:15:28
+2024-12-04 00:15:30,695 - INFO - Current time: 2024-12-04 00:15:30
+2024-12-04 00:15:30,970 - INFO - Current time: 2024-12-04 00:15:30
+2024-12-04 00:15:31,535 - INFO - Current time: 2024-12-04 00:15:31
+2024-12-04 00:15:32,154 - INFO - Current time: 2024-12-04 00:15:32
+2024-12-04 00:15:34,170 - INFO - Current time: 2024-12-04 00:15:34
+2024-12-04 00:15:35,927 - INFO - Current time: 2024-12-04 00:15:35
+2024-12-04 00:15:36,564 - INFO - Current time: 2024-12-04 00:15:36
+2024-12-04 00:15:36,850 - INFO - Current time: 2024-12-04 00:15:36
+2024-12-04 00:15:38,374 - INFO - Current time: 2024-12-04 00:15:38
+2024-12-04 00:15:39,354 - INFO - Current time: 2024-12-04 00:15:39
+2024-12-04 00:15:39,652 - INFO - Current time: 2024-12-04 00:15:39
+2024-12-04 00:15:40,905 - INFO - Current time: 2024-12-04 00:15:40
+2024-12-04 00:15:42,649 - INFO - Current time: 2024-12-04 00:15:42
+2024-12-04 00:15:42,852 - INFO - Current time: 2024-12-04 00:15:42
+2024-12-04 00:15:43,833 - INFO - Current time: 2024-12-04 00:15:43
+2024-12-04 00:15:44,390 - INFO - Current time: 2024-12-04 00:15:44
+2024-12-04 00:15:46,241 - INFO - Current time: 2024-12-04 00:15:46
+2024-12-04 00:15:47,809 - INFO - Current time: 2024-12-04 00:15:47
+2024-12-04 00:15:48,526 - INFO - Current time: 2024-12-04 00:15:48
+2024-12-04 00:15:48,736 - INFO - Current time: 2024-12-04 00:15:48
+2024-12-04 00:15:49,973 - INFO - Current time: 2024-12-04 00:15:49
+2024-12-04 00:15:51,215 - INFO - Current time: 2024-12-04 00:15:51
+2024-12-04 00:15:51,769 - INFO - Current time: 2024-12-04 00:15:51
+2024-12-04 00:15:53,371 - INFO - Current time: 2024-12-04 00:15:53
+2024-12-04 00:15:54,237 - INFO - Current time: 2024-12-04 00:15:54
+2024-12-04 00:15:54,797 - INFO - Current time: 2024-12-04 00:15:54
+2024-12-04 00:15:55,443 - INFO - Current time: 2024-12-04 00:15:55
+2024-12-04 00:15:56,601 - INFO - Current time: 2024-12-04 00:15:56
+2024-12-04 00:15:58,103 - INFO - Current time: 2024-12-04 00:15:58
+2024-12-04 00:16:00,163 - INFO - Current time: 2024-12-04 00:16:00
+2024-12-04 00:16:00,451 - INFO - Current time: 2024-12-04 00:16:00
+2024-12-04 00:16:00,999 - INFO - Current time: 2024-12-04 00:16:00
+2024-12-04 00:16:02,483 - INFO - Current time: 2024-12-04 00:16:02
+2024-12-04 00:16:03,547 - INFO - Current time: 2024-12-04 00:16:03
+2024-12-04 00:16:03,789 - INFO - Current time: 2024-12-04 00:16:03
+2024-12-04 00:16:05,669 - INFO - Current time: 2024-12-04 00:16:05
+2024-12-04 00:16:06,936 - INFO - Current time: 2024-12-04 00:16:06
+2024-12-04 00:16:07,095 - INFO - Current time: 2024-12-04 00:16:07
+2024-12-04 00:16:07,570 - INFO - Current time: 2024-12-04 00:16:07
+2024-12-04 00:16:09,018 - INFO - Current time: 2024-12-04 00:16:09
+2024-12-04 00:16:09,843 - INFO - Current time: 2024-12-04 00:16:09
+2024-12-04 00:16:12,341 - INFO - Current time: 2024-12-04 00:16:12
+2024-12-04 00:16:12,776 - INFO - Current time: 2024-12-04 00:16:12
+2024-12-04 00:16:13,025 - INFO - Current time: 2024-12-04 00:16:13
+2024-12-04 00:16:14,542 - INFO - Current time: 2024-12-04 00:16:14
+2024-12-04 00:16:15,800 - INFO - Current time: 2024-12-04 00:16:15
+2024-12-04 00:16:16,032 - INFO - Current time: 2024-12-04 00:16:16
+2024-12-04 00:16:18,324 - INFO - Current time: 2024-12-04 00:16:18
+2024-12-04 00:16:18,337 - INFO - Current time: 2024-12-04 00:16:18
+2024-12-04 00:16:18,802 - INFO - Current time: 2024-12-04 00:16:18
+2024-12-04 00:16:18,875 - INFO - Current time: 2024-12-04 00:16:18
+2024-12-04 00:16:19,687 - INFO - Current time: 2024-12-04 00:16:19
+2024-12-04 00:16:19,998 - INFO - Current time: 2024-12-04 00:16:19
+2024-12-04 00:16:21,254 - INFO - Current time: 2024-12-04 00:16:21
+2024-12-04 00:16:21,405 - INFO - Current time: 2024-12-04 00:16:21
+2024-12-04 00:16:21,486 - INFO - Current time: 2024-12-04 00:16:21
+2024-12-04 00:16:22,234 - INFO - Current time: 2024-12-04 00:16:22
+2024-12-04 00:16:22,522 - INFO - Current time: 2024-12-04 00:16:22
+2024-12-04 00:16:22,565 - INFO - Current time: 2024-12-04 00:16:22
+2024-12-04 00:16:22,565 - INFO - Total time taken: 12.26 minutes
+2024-12-04 00:16:22,568 - INFO - 250 videos found in /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real
+2024-12-04 00:16:28,958 - WARNING - No faces in frame 149 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00010.mp4
+2024-12-04 00:16:34,357 - INFO - Current time: 2024-12-04 00:16:34
+2024-12-04 00:16:34,724 - INFO - Current time: 2024-12-04 00:16:34
+2024-12-04 00:16:34,911 - INFO - Current time: 2024-12-04 00:16:34
+2024-12-04 00:16:35,171 - INFO - Current time: 2024-12-04 00:16:35
+2024-12-04 00:16:35,426 - INFO - Current time: 2024-12-04 00:16:35
+2024-12-04 00:16:35,696 - INFO - Current time: 2024-12-04 00:16:35
+2024-12-04 00:16:36,046 - INFO - Current time: 2024-12-04 00:16:36
+2024-12-04 00:16:36,399 - INFO - Current time: 2024-12-04 00:16:36
+2024-12-04 00:16:36,579 - INFO - Current time: 2024-12-04 00:16:36
+2024-12-04 00:16:36,996 - INFO - Current time: 2024-12-04 00:16:36
+2024-12-04 00:16:37,286 - INFO - Current time: 2024-12-04 00:16:37
+2024-12-04 00:16:38,145 - INFO - Current time: 2024-12-04 00:16:38
+2024-12-04 00:16:42,068 - WARNING - No faces in frame 217 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00012.mp4
+2024-12-04 00:16:43,479 - WARNING - No faces in frame 235 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00016.mp4
+2024-12-04 00:16:43,690 - WARNING - No faces in frame 246 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00016.mp4
+2024-12-04 00:16:45,741 - INFO - Current time: 2024-12-04 00:16:45
+2024-12-04 00:16:46,058 - INFO - Current time: 2024-12-04 00:16:46
+2024-12-04 00:16:46,395 - INFO - Current time: 2024-12-04 00:16:46
+2024-12-04 00:16:46,839 - INFO - Current time: 2024-12-04 00:16:46
+2024-12-04 00:16:47,102 - INFO - Current time: 2024-12-04 00:16:47
+2024-12-04 00:16:47,367 - INFO - Current time: 2024-12-04 00:16:47
+2024-12-04 00:16:47,649 - INFO - Current time: 2024-12-04 00:16:47
+2024-12-04 00:16:48,179 - INFO - Current time: 2024-12-04 00:16:48
+2024-12-04 00:16:48,534 - INFO - Current time: 2024-12-04 00:16:48
+2024-12-04 00:16:49,033 - INFO - Current time: 2024-12-04 00:16:49
+2024-12-04 00:16:49,389 - INFO - Current time: 2024-12-04 00:16:49
+2024-12-04 00:16:50,142 - INFO - Current time: 2024-12-04 00:16:50
+2024-12-04 00:16:54,251 - WARNING - No faces in frame 287 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00025.mp4
+2024-12-04 00:16:57,808 - INFO - Current time: 2024-12-04 00:16:57
+2024-12-04 00:16:58,012 - INFO - Current time: 2024-12-04 00:16:58
+2024-12-04 00:16:58,288 - INFO - Current time: 2024-12-04 00:16:58
+2024-12-04 00:16:58,639 - INFO - Current time: 2024-12-04 00:16:58
+2024-12-04 00:16:58,822 - INFO - Current time: 2024-12-04 00:16:58
+2024-12-04 00:16:59,093 - INFO - Current time: 2024-12-04 00:16:59
+2024-12-04 00:16:59,665 - INFO - Current time: 2024-12-04 00:16:59
+2024-12-04 00:17:00,002 - INFO - Current time: 2024-12-04 00:17:00
+2024-12-04 00:17:00,534 - INFO - Current time: 2024-12-04 00:17:00
+2024-12-04 00:17:00,876 - INFO - Current time: 2024-12-04 00:17:00
+2024-12-04 00:17:01,416 - INFO - Current time: 2024-12-04 00:17:01
+2024-12-04 00:17:02,387 - INFO - Current time: 2024-12-04 00:17:02
+2024-12-04 00:17:05,245 - WARNING - No faces in frame 251 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00039.mp4
+2024-12-04 00:17:08,401 - WARNING - No faces in frame 413 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00039.mp4
+2024-12-04 00:17:09,500 - INFO - Current time: 2024-12-04 00:17:09
+2024-12-04 00:17:09,779 - INFO - Current time: 2024-12-04 00:17:09
+2024-12-04 00:17:10,403 - INFO - Current time: 2024-12-04 00:17:10
+2024-12-04 00:17:10,642 - INFO - Current time: 2024-12-04 00:17:10
+2024-12-04 00:17:10,644 - INFO - Current time: 2024-12-04 00:17:10
+2024-12-04 00:17:10,844 - INFO - Current time: 2024-12-04 00:17:10
+2024-12-04 00:17:11,557 - INFO - Current time: 2024-12-04 00:17:11
+2024-12-04 00:17:11,639 - INFO - Current time: 2024-12-04 00:17:11
+2024-12-04 00:17:12,453 - INFO - Current time: 2024-12-04 00:17:12
+2024-12-04 00:17:12,742 - INFO - Current time: 2024-12-04 00:17:12
+2024-12-04 00:17:13,557 - INFO - Current time: 2024-12-04 00:17:13
+2024-12-04 00:17:14,717 - INFO - Current time: 2024-12-04 00:17:14
+2024-12-04 00:17:21,082 - INFO - Current time: 2024-12-04 00:17:21
+2024-12-04 00:17:21,770 - WARNING - No faces in frame 402 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00054.mp4
+2024-12-04 00:17:21,775 - INFO - Current time: 2024-12-04 00:17:21
+2024-12-04 00:17:22,053 - INFO - Current time: 2024-12-04 00:17:22
+2024-12-04 00:17:22,374 - INFO - Current time: 2024-12-04 00:17:22
+2024-12-04 00:17:22,718 - INFO - Current time: 2024-12-04 00:17:22
+2024-12-04 00:17:22,910 - INFO - Current time: 2024-12-04 00:17:22
+2024-12-04 00:17:23,187 - INFO - Current time: 2024-12-04 00:17:23
+2024-12-04 00:17:23,457 - INFO - Current time: 2024-12-04 00:17:23
+2024-12-04 00:17:24,076 - WARNING - No faces in frame 61 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00060.mp4
+2024-12-04 00:17:24,587 - INFO - Current time: 2024-12-04 00:17:24
+2024-12-04 00:17:24,859 - INFO - Current time: 2024-12-04 00:17:24
+2024-12-04 00:17:25,130 - INFO - Current time: 2024-12-04 00:17:25
+2024-12-04 00:17:26,589 - INFO - Current time: 2024-12-04 00:17:26
+2024-12-04 00:17:30,631 - WARNING - No faces in frame 250 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00069.mp4
+2024-12-04 00:17:30,875 - WARNING - No faces in frame 264 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00069.mp4
+2024-12-04 00:17:32,102 - WARNING - No faces in frame 319 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00069.mp4
+2024-12-04 00:17:33,157 - INFO - Current time: 2024-12-04 00:17:33
+2024-12-04 00:17:33,475 - INFO - Current time: 2024-12-04 00:17:33
+2024-12-04 00:17:33,801 - WARNING - No faces in frame 476 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00063.mp4
+2024-12-04 00:17:34,000 - INFO - Current time: 2024-12-04 00:17:34
+2024-12-04 00:17:34,528 - INFO - Current time: 2024-12-04 00:17:34
+2024-12-04 00:17:34,609 - INFO - Current time: 2024-12-04 00:17:34
+2024-12-04 00:17:34,808 - INFO - Current time: 2024-12-04 00:17:34
+2024-12-04 00:17:35,357 - INFO - Current time: 2024-12-04 00:17:35
+2024-12-04 00:17:35,622 - INFO - Current time: 2024-12-04 00:17:35
+2024-12-04 00:17:36,395 - INFO - Current time: 2024-12-04 00:17:36
+2024-12-04 00:17:36,684 - INFO - Current time: 2024-12-04 00:17:36
+2024-12-04 00:17:37,328 - INFO - Current time: 2024-12-04 00:17:37
+2024-12-04 00:17:39,024 - INFO - Current time: 2024-12-04 00:17:39
+2024-12-04 00:17:45,252 - INFO - Current time: 2024-12-04 00:17:45
+2024-12-04 00:17:45,577 - INFO - Current time: 2024-12-04 00:17:45
+2024-12-04 00:17:45,770 - INFO - Current time: 2024-12-04 00:17:45
+2024-12-04 00:17:46,276 - INFO - Current time: 2024-12-04 00:17:46
+2024-12-04 00:17:46,572 - INFO - Current time: 2024-12-04 00:17:46
+2024-12-04 00:17:46,941 - INFO - Current time: 2024-12-04 00:17:46
+2024-12-04 00:17:47,104 - INFO - Current time: 2024-12-04 00:17:47
+2024-12-04 00:17:47,589 - INFO - Current time: 2024-12-04 00:17:47
+2024-12-04 00:17:47,775 - INFO - Current time: 2024-12-04 00:17:47
+2024-12-04 00:17:48,430 - INFO - Current time: 2024-12-04 00:17:48
+2024-12-04 00:17:49,194 - INFO - Current time: 2024-12-04 00:17:49
+2024-12-04 00:17:50,702 - INFO - Current time: 2024-12-04 00:17:50
+2024-12-04 00:17:52,169 - WARNING - No faces in frame 194 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00092.mp4
+2024-12-04 00:17:54,247 - WARNING - No faces in frame 317 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00088.mp4
+2024-12-04 00:17:56,662 - INFO - Current time: 2024-12-04 00:17:56
+2024-12-04 00:17:57,276 - WARNING - No faces in frame 329 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00095.mp4
+2024-12-04 00:17:57,278 - INFO - Current time: 2024-12-04 00:17:57
+2024-12-04 00:17:57,568 - INFO - Current time: 2024-12-04 00:17:57
+2024-12-04 00:17:58,089 - INFO - Current time: 2024-12-04 00:17:58
+2024-12-04 00:17:58,497 - INFO - Current time: 2024-12-04 00:17:58
+2024-12-04 00:17:58,771 - INFO - Current time: 2024-12-04 00:17:58
+2024-12-04 00:17:59,086 - INFO - Current time: 2024-12-04 00:17:59
+2024-12-04 00:17:59,274 - INFO - Current time: 2024-12-04 00:17:59
+2024-12-04 00:17:59,552 - INFO - Current time: 2024-12-04 00:17:59
+2024-12-04 00:18:00,084 - INFO - Current time: 2024-12-04 00:18:00
+2024-12-04 00:18:00,639 - INFO - Current time: 2024-12-04 00:18:00
+2024-12-04 00:18:02,534 - WARNING - No faces in frame 63 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00106.mp4
+2024-12-04 00:18:02,871 - INFO - Current time: 2024-12-04 00:18:02
+2024-12-04 00:18:04,255 - WARNING - No faces in frame 213 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00103.mp4
+2024-12-04 00:18:06,898 - WARNING - No faces in frame 338 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00102.mp4
+2024-12-04 00:18:08,054 - INFO - Current time: 2024-12-04 00:18:08
+2024-12-04 00:18:08,877 - INFO - Current time: 2024-12-04 00:18:08
+2024-12-04 00:18:09,173 - WARNING - No faces in frame 0 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00109.mp4
+2024-12-04 00:18:09,474 - INFO - Current time: 2024-12-04 00:18:09
+2024-12-04 00:18:09,958 - INFO - Current time: 2024-12-04 00:18:09
+2024-12-04 00:18:10,190 - INFO - Current time: 2024-12-04 00:18:10
+2024-12-04 00:18:10,455 - INFO - Current time: 2024-12-04 00:18:10
+2024-12-04 00:18:10,724 - INFO - Current time: 2024-12-04 00:18:10
+2024-12-04 00:18:10,986 - INFO - Current time: 2024-12-04 00:18:10
+2024-12-04 00:18:11,564 - INFO - Current time: 2024-12-04 00:18:11
+2024-12-04 00:18:12,381 - INFO - Current time: 2024-12-04 00:18:12
+2024-12-04 00:18:12,463 - INFO - Current time: 2024-12-04 00:18:12
+2024-12-04 00:18:13,891 - WARNING - No faces in frame 84 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00109.mp4
+2024-12-04 00:18:14,636 - INFO - Current time: 2024-12-04 00:18:14
+2024-12-04 00:18:19,744 - WARNING - No faces in frame 263 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00109.mp4
+2024-12-04 00:18:19,955 - INFO - Current time: 2024-12-04 00:18:19
+2024-12-04 00:18:20,281 - INFO - Current time: 2024-12-04 00:18:20
+2024-12-04 00:18:21,117 - INFO - Current time: 2024-12-04 00:18:21
+2024-12-04 00:18:21,463 - INFO - Current time: 2024-12-04 00:18:21
+2024-12-04 00:18:22,010 - INFO - Current time: 2024-12-04 00:18:22
+2024-12-04 00:18:22,278 - INFO - Current time: 2024-12-04 00:18:22
+2024-12-04 00:18:22,552 - INFO - Current time: 2024-12-04 00:18:22
+2024-12-04 00:18:23,095 - INFO - Current time: 2024-12-04 00:18:23
+2024-12-04 00:18:23,632 - INFO - Current time: 2024-12-04 00:18:23
+2024-12-04 00:18:23,920 - INFO - Current time: 2024-12-04 00:18:23
+2024-12-04 00:18:24,449 - INFO - Current time: 2024-12-04 00:18:24
+2024-12-04 00:18:26,515 - INFO - Current time: 2024-12-04 00:18:26
+2024-12-04 00:18:26,812 - WARNING - No faces in frame 149 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00124.mp4
+2024-12-04 00:18:27,285 - WARNING - No faces in frame 102 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00130.mp4
+2024-12-04 00:18:29,806 - WARNING - No faces in frame 298 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00124.mp4
+2024-12-04 00:18:30,967 - WARNING - No faces in frame 281 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00130.mp4
+2024-12-04 00:18:32,021 - INFO - Current time: 2024-12-04 00:18:32
+2024-12-04 00:18:32,100 - WARNING - No faces in frame 406 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00124.mp4
+2024-12-04 00:18:32,309 - INFO - Current time: 2024-12-04 00:18:32
+2024-12-04 00:18:32,580 - INFO - Current time: 2024-12-04 00:18:32
+2024-12-04 00:18:33,461 - INFO - Current time: 2024-12-04 00:18:33
+2024-12-04 00:18:33,466 - INFO - Current time: 2024-12-04 00:18:33
+2024-12-04 00:18:33,648 - INFO - Current time: 2024-12-04 00:18:33
+2024-12-04 00:18:34,826 - INFO - Current time: 2024-12-04 00:18:34
+2024-12-04 00:18:35,144 - WARNING - No faces in frame 459 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00128.mp4
+2024-12-04 00:18:35,147 - INFO - Current time: 2024-12-04 00:18:35
+2024-12-04 00:18:35,489 - INFO - Current time: 2024-12-04 00:18:35
+2024-12-04 00:18:36,127 - INFO - Current time: 2024-12-04 00:18:36
+2024-12-04 00:18:36,323 - INFO - Current time: 2024-12-04 00:18:36
+2024-12-04 00:18:37,541 - WARNING - No faces in frame 333 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00131.mp4
+2024-12-04 00:18:37,767 - WARNING - No faces in frame 344 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00131.mp4
+2024-12-04 00:18:38,241 - INFO - Current time: 2024-12-04 00:18:38
+2024-12-04 00:18:43,525 - INFO - Current time: 2024-12-04 00:18:43
+2024-12-04 00:18:44,062 - INFO - Current time: 2024-12-04 00:18:44
+2024-12-04 00:18:44,227 - INFO - Current time: 2024-12-04 00:18:44
+2024-12-04 00:18:44,666 - INFO - Current time: 2024-12-04 00:18:44
+2024-12-04 00:18:44,747 - INFO - Current time: 2024-12-04 00:18:44
+2024-12-04 00:18:45,331 - INFO - Current time: 2024-12-04 00:18:45
+2024-12-04 00:18:46,234 - INFO - Current time: 2024-12-04 00:18:46
+2024-12-04 00:18:46,795 - INFO - Current time: 2024-12-04 00:18:46
+2024-12-04 00:18:47,069 - INFO - Current time: 2024-12-04 00:18:47
+2024-12-04 00:18:47,351 - INFO - Current time: 2024-12-04 00:18:47
+2024-12-04 00:18:48,625 - INFO - Current time: 2024-12-04 00:18:48
+2024-12-04 00:18:48,835 - WARNING - No faces in frame 0 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00154.mp4
+2024-12-04 00:18:49,715 - INFO - Current time: 2024-12-04 00:18:49
+2024-12-04 00:18:55,059 - INFO - Current time: 2024-12-04 00:18:55
+2024-12-04 00:18:55,667 - INFO - Current time: 2024-12-04 00:18:55
+2024-12-04 00:18:55,918 - INFO - Current time: 2024-12-04 00:18:55
+2024-12-04 00:18:56,265 - INFO - Current time: 2024-12-04 00:18:56
+2024-12-04 00:18:57,028 - INFO - Current time: 2024-12-04 00:18:57
+2024-12-04 00:18:57,587 - INFO - Current time: 2024-12-04 00:18:57
+2024-12-04 00:18:57,587 - WARNING - No faces in frame 325 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00154.mp4
+2024-12-04 00:18:57,874 - INFO - Current time: 2024-12-04 00:18:57
+2024-12-04 00:18:58,996 - INFO - Current time: 2024-12-04 00:18:58
+2024-12-04 00:18:58,996 - WARNING - No faces in frame 374 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00154.mp4
+2024-12-04 00:18:59,353 - INFO - Current time: 2024-12-04 00:18:59
+2024-12-04 00:18:59,531 - INFO - Current time: 2024-12-04 00:18:59
+2024-12-04 00:18:59,879 - INFO - Current time: 2024-12-04 00:18:59
+2024-12-04 00:19:02,176 - INFO - Current time: 2024-12-04 00:19:02
+2024-12-04 00:19:06,776 - INFO - Current time: 2024-12-04 00:19:06
+2024-12-04 00:19:07,553 - INFO - Current time: 2024-12-04 00:19:07
+2024-12-04 00:19:07,631 - INFO - Current time: 2024-12-04 00:19:07
+2024-12-04 00:19:08,512 - INFO - Current time: 2024-12-04 00:19:08
+2024-12-04 00:19:09,152 - INFO - Current time: 2024-12-04 00:19:09
+2024-12-04 00:19:09,499 - INFO - Current time: 2024-12-04 00:19:09
+2024-12-04 00:19:09,775 - INFO - Current time: 2024-12-04 00:19:09
+2024-12-04 00:19:10,638 - INFO - Current time: 2024-12-04 00:19:10
+2024-12-04 00:19:11,263 - INFO - Current time: 2024-12-04 00:19:11
+2024-12-04 00:19:11,463 - INFO - Current time: 2024-12-04 00:19:11
+2024-12-04 00:19:11,734 - INFO - Current time: 2024-12-04 00:19:11
+2024-12-04 00:19:12,650 - WARNING - No faces in frame 168 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00168.mp4
+2024-12-04 00:19:13,968 - INFO - Current time: 2024-12-04 00:19:13
+2024-12-04 00:19:17,409 - WARNING - No faces in frame 313 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00170.mp4
+2024-12-04 00:19:17,888 - WARNING - No faces in frame 318 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00177.mp4
+2024-12-04 00:19:18,205 - WARNING - No faces in frame 378 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00171.mp4
+2024-12-04 00:19:18,494 - INFO - Current time: 2024-12-04 00:19:18
+2024-12-04 00:19:18,809 - INFO - Current time: 2024-12-04 00:19:18
+2024-12-04 00:19:19,517 - INFO - Current time: 2024-12-04 00:19:19
+2024-12-04 00:19:20,046 - INFO - Current time: 2024-12-04 00:19:20
+2024-12-04 00:19:20,635 - INFO - Current time: 2024-12-04 00:19:20
+2024-12-04 00:19:21,493 - INFO - Current time: 2024-12-04 00:19:21
+2024-12-04 00:19:21,831 - INFO - Current time: 2024-12-04 00:19:21
+2024-12-04 00:19:22,336 - INFO - Current time: 2024-12-04 00:19:22
+2024-12-04 00:19:22,962 - INFO - Current time: 2024-12-04 00:19:22
+2024-12-04 00:19:23,280 - INFO - Current time: 2024-12-04 00:19:23
+2024-12-04 00:19:23,808 - INFO - Current time: 2024-12-04 00:19:23
+2024-12-04 00:19:25,875 - INFO - Current time: 2024-12-04 00:19:25
+2024-12-04 00:19:27,822 - WARNING - No faces in frame 301 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00181.mp4
+2024-12-04 00:19:28,071 - WARNING - No faces in frame 314 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00181.mp4
+2024-12-04 00:19:29,631 - INFO - Current time: 2024-12-04 00:19:29
+2024-12-04 00:19:29,935 - WARNING - No faces in frame 390 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00181.mp4
+2024-12-04 00:19:30,150 - INFO - Current time: 2024-12-04 00:19:30
+2024-12-04 00:19:31,098 - INFO - Current time: 2024-12-04 00:19:31
+2024-12-04 00:19:32,088 - INFO - Current time: 2024-12-04 00:19:32
+2024-12-04 00:19:32,495 - INFO - Current time: 2024-12-04 00:19:32
+2024-12-04 00:19:33,416 - INFO - Current time: 2024-12-04 00:19:33
+2024-12-04 00:19:33,657 - INFO - Current time: 2024-12-04 00:19:33
+2024-12-04 00:19:34,311 - INFO - Current time: 2024-12-04 00:19:34
+2024-12-04 00:19:34,711 - INFO - Current time: 2024-12-04 00:19:34
+2024-12-04 00:19:34,899 - INFO - Current time: 2024-12-04 00:19:34
+2024-12-04 00:19:35,486 - INFO - Current time: 2024-12-04 00:19:35
+2024-12-04 00:19:37,202 - INFO - Current time: 2024-12-04 00:19:37
+2024-12-04 00:19:40,437 - WARNING - No faces in frame 350 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00195.mp4
+2024-12-04 00:19:41,287 - INFO - Current time: 2024-12-04 00:19:41
+2024-12-04 00:19:41,567 - INFO - Current time: 2024-12-04 00:19:41
+2024-12-04 00:19:43,173 - INFO - Current time: 2024-12-04 00:19:43
+2024-12-04 00:19:43,831 - INFO - Current time: 2024-12-04 00:19:43
+2024-12-04 00:19:44,330 - INFO - Current time: 2024-12-04 00:19:44
+2024-12-04 00:19:45,244 - INFO - Current time: 2024-12-04 00:19:45
+2024-12-04 00:19:45,774 - INFO - Current time: 2024-12-04 00:19:45
+2024-12-04 00:19:46,206 - INFO - Current time: 2024-12-04 00:19:46
+2024-12-04 00:19:46,645 - INFO - Current time: 2024-12-04 00:19:46
+2024-12-04 00:19:46,936 - INFO - Current time: 2024-12-04 00:19:46
+2024-12-04 00:19:47,311 - INFO - Current time: 2024-12-04 00:19:47
+2024-12-04 00:19:47,571 - WARNING - No faces in frame 14 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00213.mp4
+2024-12-04 00:19:47,574 - WARNING - No faces in frame 36 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-12-04 00:19:47,793 - WARNING - No faces in frame 40 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-12-04 00:19:48,618 - INFO - Current time: 2024-12-04 00:19:48
+2024-12-04 00:19:50,416 - WARNING - No faces in frame 132 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00212.mp4
+2024-12-04 00:19:51,288 - WARNING - No faces in frame 92 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-12-04 00:19:51,305 - WARNING - No faces in frame 192 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00213.mp4
+2024-12-04 00:19:51,525 - WARNING - No faces in frame 96 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-12-04 00:19:51,765 - WARNING - No faces in frame 100 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00207.mp4
+2024-12-04 00:19:53,255 - INFO - Current time: 2024-12-04 00:19:53
+2024-12-04 00:19:53,340 - INFO - Current time: 2024-12-04 00:19:53
+2024-12-04 00:19:53,952 - INFO - Current time: 2024-12-04 00:19:53
+2024-12-04 00:19:55,070 - INFO - Current time: 2024-12-04 00:19:55
+2024-12-04 00:19:56,201 - INFO - Current time: 2024-12-04 00:19:56
+2024-12-04 00:19:56,836 - WARNING - No faces in frame 62 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00219.mp4
+2024-12-04 00:19:57,061 - INFO - Current time: 2024-12-04 00:19:57
+2024-12-04 00:19:57,375 - WARNING - No faces in frame 395 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00211.mp4
+2024-12-04 00:19:57,946 - INFO - Current time: 2024-12-04 00:19:57
+2024-12-04 00:19:58,151 - INFO - Current time: 2024-12-04 00:19:58
+2024-12-04 00:19:58,449 - INFO - Current time: 2024-12-04 00:19:58
+2024-12-04 00:19:58,771 - INFO - Current time: 2024-12-04 00:19:58
+2024-12-04 00:19:59,055 - WARNING - No faces in frame 124 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00219.mp4
+2024-12-04 00:19:59,136 - INFO - Current time: 2024-12-04 00:19:59
+2024-12-04 00:19:59,409 - WARNING - No faces in frame 0 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00226.mp4
+2024-12-04 00:19:59,673 - WARNING - No faces in frame 155 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/YouTube-real/00219.mp4
+2024-12-04 00:20:00,283 - INFO - Current time: 2024-12-04 00:20:00
+2024-12-04 00:20:04,337 - INFO - Current time: 2024-12-04 00:20:04
+2024-12-04 00:20:04,902 - INFO - Current time: 2024-12-04 00:20:04
+2024-12-04 00:20:06,067 - INFO - Current time: 2024-12-04 00:20:06
+2024-12-04 00:20:06,322 - INFO - Current time: 2024-12-04 00:20:06
+2024-12-04 00:20:08,325 - INFO - Current time: 2024-12-04 00:20:08
+2024-12-04 00:20:09,205 - INFO - Current time: 2024-12-04 00:20:09
+2024-12-04 00:20:09,783 - INFO - Current time: 2024-12-04 00:20:09
+2024-12-04 00:20:10,316 - INFO - Current time: 2024-12-04 00:20:10
+2024-12-04 00:20:10,400 - INFO - Current time: 2024-12-04 00:20:10
+2024-12-04 00:20:11,106 - INFO - Current time: 2024-12-04 00:20:11
+2024-12-04 00:20:11,527 - INFO - Current time: 2024-12-04 00:20:11
+2024-12-04 00:20:12,380 - INFO - Current time: 2024-12-04 00:20:12
+2024-12-04 00:20:16,414 - INFO - Current time: 2024-12-04 00:20:16
+2024-12-04 00:20:16,998 - INFO - Current time: 2024-12-04 00:20:16
+2024-12-04 00:20:18,191 - INFO - Current time: 2024-12-04 00:20:18
+2024-12-04 00:20:18,526 - INFO - Current time: 2024-12-04 00:20:18
+2024-12-04 00:20:20,034 - INFO - Current time: 2024-12-04 00:20:20
+2024-12-04 00:20:20,930 - INFO - Current time: 2024-12-04 00:20:20
+2024-12-04 00:20:21,204 - INFO - Current time: 2024-12-04 00:20:21
+2024-12-04 00:20:21,897 - INFO - Current time: 2024-12-04 00:20:21
+2024-12-04 00:20:22,114 - INFO - Current time: 2024-12-04 00:20:22
+2024-12-04 00:20:23,007 - INFO - Current time: 2024-12-04 00:20:23
+2024-12-04 00:20:23,371 - INFO - Current time: 2024-12-04 00:20:23
+2024-12-04 00:20:23,592 - INFO - Current time: 2024-12-04 00:20:23
+2024-12-04 00:20:26,870 - INFO - Current time: 2024-12-04 00:20:26
+2024-12-04 00:20:27,227 - INFO - Current time: 2024-12-04 00:20:27
+2024-12-04 00:20:27,643 - INFO - Current time: 2024-12-04 00:20:27
+2024-12-04 00:20:27,892 - INFO - Current time: 2024-12-04 00:20:27
+2024-12-04 00:20:28,578 - INFO - Current time: 2024-12-04 00:20:28
+2024-12-04 00:20:28,728 - INFO - Current time: 2024-12-04 00:20:28
+2024-12-04 00:20:28,877 - INFO - Current time: 2024-12-04 00:20:28
+2024-12-04 00:20:29,133 - INFO - Current time: 2024-12-04 00:20:29
+2024-12-04 00:20:29,252 - INFO - Current time: 2024-12-04 00:20:29
+2024-12-04 00:20:29,531 - INFO - Current time: 2024-12-04 00:20:29
+2024-12-04 00:20:29,531 - INFO - Total time taken: 4.12 minutes
+2024-12-04 00:20:29,533 - INFO - Face cropping complete!
+2024-12-04 16:04:50,054 - INFO - 158 videos found in /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real
+2024-12-04 16:04:53,540 - WARNING - No faces in frame 4 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 16:04:53,772 - WARNING - No faces in frame 9 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 16:04:53,982 - WARNING - No faces in frame 13 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 16:04:54,236 - WARNING - No faces in frame 18 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 16:04:54,457 - WARNING - No faces in frame 23 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-04 16:04:54,722 - WARNING - No faces in frame 27 of /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real/id10_0001.mp4
+2024-12-06 15:57:01,077 - INFO - 158 videos found in /home/dani/cs478/DeepfakeBench/datasets/Celeb-DF-v1/Celeb-real

@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<h1>Super Deepfake Detector</h1>
+{% if err %}
+    <p style="color: red">{{err}}</p>
+{% endif %}
+{% if results %}
+    <div id="results">
+        {% if results == 'REAL' %}
+        <h3 style="color: green">{{ results }}</h3>
+        {% elif results == 'FAKE' %}
+        <h3 style="color: red">{{ results }}</h3>
+        {% else %}
+        <h3 style="color: red">ERROR</h3>
+        {% endif %}
+        {% for stat in stats.keys() %}
+            <p>{{stat}}: {{"{:.2%}".format(stats[stat])}}</p>
+        {% endfor %}
+    </div>
+{% endif %}
+{% endblock %}

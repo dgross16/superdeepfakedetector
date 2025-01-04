@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    font-size: 20pt;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 144px
+}
+
+.content {
+    max-width:70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#upload {
+    align: center;
+}
+
+#results{
+    font-size: 48px;
+}
+
+.htmx-indicator{
+    width: 200px;
+    display:none;
+    transition: opacity 500ms ease-in;
+}
+.htmx-request .htmx-indicator{
+    display:inline;
+}
+.htmx-request.htmx-indicator{
+    display:inline;
+}
+
+@media (orientation: portrait) {
+    h1 {
+        font-size: 72px;
+    }
+
+    .content {
+        max-width: 90%;
+    }
+
+}

@@ -1,0 +1,8 @@
+DeepfakeBench/datasets/*
+DeepfakeBench/training/pretrained/*
+DeepfakeBench/training/weights/*
+DeepfakeBench/preprocessing/dataset_json/*
+**/__pycache__/*
+.env
+main.py.bak
+

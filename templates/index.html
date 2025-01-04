@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<h1>Super Deepfake Detector</h1>
+<div id="results"></div>
+<div id="upload">
+    <img id="spinner" class="htmx-indicator" src="./static/images/loading.gif"/>
+    <form method="POST" enctype='multipart/form-data' hx-post='/file_upload' hx-swap='innerHTML' hx-select-oob='#results' hx-target='#results', hx-indicator='#spinner'>
+        <input type="file" name="file" accept=".mp4" />
+        <input type="submit" value="Detect" />
+    </form>
+    {% if err %}
+    <p style="color: red">{{err}}</p>
+    {% endif %}
+</div>
+{% endblock %}
