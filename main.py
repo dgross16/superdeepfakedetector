@@ -1,16 +1,15 @@
-import requests
 import os
 import yaml
-import logging
 import statistics
 from pathlib import Path
+
 import DeepfakeBench.preprocessing.preprocess as prep
 import DeepfakeBench.preprocessing.rearrange as rearr
-from DeepfakeBench.training.metrics.utils import get_test_metrics
-import DeepfakeBench.training.fakedetector as dfdetector
+
+from fakedetector import DFDetector
+
 from flask import Flask, redirect, url_for, render_template, request
 from werkzeug.utils import secure_filename
-from datetime import timedelta
 from dotenv import load_dotenv
 
 # Load environent variables
@@ -28,47 +27,70 @@ def index():
     if request.args.get('fail'):
         if request.args.get('fail') == '1':
             err = "Not a '.mp4' file"
-
     return render_template("index.html", err=err)
 
 @app.route("/file_upload", methods = ['GET', 'POST'])
 def file_upload():
     results = None
-    stats={}
+    stats = {}
     if request.method == 'POST':
         try:
             file = request.files['file']
         except:
             err = "Not a '.mp4' file"
             return render_template('file_upload.html', results=err)
+
         if file.filename.split(".")[-1] == 'mp4':
+            # Save the video file properly to the server.
             file.save(os.path.join(os.path.abspath(os.path.dirname(__file__)), app.config['UPLOAD_FOLDER'], secure_filename(file.filename)))
-            preprocess_step()
-            rearrange_step()
-            results = dfdetector.main()
+
+
+            # Split video into frames to prepare for inference.
+            preprocess_video()
+
+            # Inference each model, averaging the accuracies of each of them.
+            skip_please = ['iid.yaml', 'meso4.yaml', 'pcl_xception.yaml', 'altfreezing.yaml', 'sbi.yaml', 'lsda.yaml',
+                           'xclip.yaml', 'videomae.yaml', 'i3d.yaml', 'sladd_detector.yaml', 'tall.yaml',
+                           'sia.yaml', 'uia_vit.yaml', 'multi_attention.yaml', 'timesformer.yaml', 'lrl.yaml',
+                           'sta.yaml', 'resnet34.yaml', 'f3net.yaml', 'ftcn.yaml', 'clip.yaml', 'spsl.yaml',
+                           'facexray.yaml', 'ucf.yaml', 'efficientnetb4.yaml', 'recce.yaml']
+            results = []
+
+            # parse options and load config
+            for detector_config in os.scandir('./DeepfakeBench/training/config/detector/'):
+                if detector_config.name in skip_please:
+                    print(f"skipping {detector_config.name}")
+                    continue
+
+                # Create DFDetector object
+                detector = DFDetector(detector_config)
+
+                # start testing
+                best_metric = detector.test_epoch()
+                results += [best_metric['temp']['acc']]
+
+            print('===> Test Done!')
+
             stats['Accuracy'] = statistics.mean(results)
             if stats['Accuracy'] > 0.70:
                 results = "REAL"
             else:
                 results = "FAKE"
 
-            delete_temp()
+            delete_video()
 
             return render_template('file_upload.html', results=results, stats=stats)
         else:
-            return redirect(url_for('index', fail=1))
+            return redirect(url_for('index'))
     else:
         return redirect(url_for('index'))
 
-
-
-
     return render_template("file_upload.html", results=results)
 
-# from config.yaml load parameters
-yaml_path = './preprocess_config.yaml'
+def preprocess_video():
+    # from config.yaml load parameters
+    yaml_path = './preprocess_config.yaml'
 
-def preprocess_step():
     # open the yaml file
     try:
         with open(yaml_path, 'r') as f:
@@ -115,16 +137,6 @@ def preprocess_step():
         logger.error(f"Sub Dataset path does not exist: {sub_dataset_paths}")
         return redirect(url_for("/", err="Error in preprocessing"))
     logger.info("Face cropping complete!")
-    return
-
-
-def rearrange_step():
-    # open the yaml file
-    try:
-        with open(yaml_path, 'r') as f:
-            config = yaml.safe_load(f)
-    except yaml.parser.ParserError as e:
-        print("YAML file parsing error:", e)
 
     dataset_name = config['rearrange']['dataset_name']['default']
     dataset_root_path = config['rearrange']['dataset_root_path']['default']
@@ -135,8 +147,8 @@ def rearrange_step():
     rearr.generate_dataset_file(dataset_name, dataset_root_path, output_file_path, comp, perturbation)
     return
 
-def delete_temp():
-    dir_path = Path('./DeepfakeBench/datasets/temp/video/')
+def delete_video():
+    dir_path = Path(os.getenv("UPLOAD_FOLDER"))
     for f in dir_path.rglob('*'):
         try:
             f.unlink()
